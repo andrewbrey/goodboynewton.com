@@ -1,5 +1,4 @@
 import { setupServer } from "msw/node";
-
 import "~/utils";
 
 const server = setupServer();

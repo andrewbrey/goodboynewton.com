@@ -1,8 +1,7 @@
+import type { LinksFunction, LoaderFunction, MetaFunction } from "remix";
 import { json, Links, LiveReload, Meta, Outlet, Scripts, ScrollRestoration } from "remix";
-import type { LinksFunction, MetaFunction, LoaderFunction } from "remix";
-
-import tailwindStylesheetUrl from "./styles/tailwind.css";
 import { getUser } from "./session.server";
+import tailwindStylesheetUrl from "./styles/tailwind.css";
 
 export const links: LinksFunction = () => {
   return [{ rel: "stylesheet", href: tailwindStylesheetUrl }];
