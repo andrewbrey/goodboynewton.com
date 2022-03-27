@@ -1,13 +1,6 @@
 import * as React from "react";
 import type { ActionFunction, LoaderFunction, MetaFunction } from "remix";
-import {
-  Form,
-  Link,
-  redirect,
-  useSearchParams,
-  json,
-  useActionData,
-} from "remix";
+import { Form, Link, redirect, useSearchParams, json, useActionData } from "remix";
 
 import { getUserId, createUserSession } from "~/session.server";
 
@@ -34,32 +27,20 @@ export const action: ActionFunction = async ({ request }) => {
   const redirectTo = formData.get("redirectTo");
 
   if (!validateEmail(email)) {
-    return json<ActionData>(
-      { errors: { email: "Email is invalid" } },
-      { status: 400 }
-    );
+    return json<ActionData>({ errors: { email: "Email is invalid" } }, { status: 400 });
   }
 
   if (typeof password !== "string") {
-    return json<ActionData>(
-      { errors: { password: "Password is required" } },
-      { status: 400 }
-    );
+    return json<ActionData>({ errors: { password: "Password is required" } }, { status: 400 });
   }
 
   if (password.length < 8) {
-    return json<ActionData>(
-      { errors: { password: "Password is too short" } },
-      { status: 400 }
-    );
+    return json<ActionData>({ errors: { password: "Password is too short" } }, { status: 400 });
   }
 
   const existingUser = await getUserByEmail(email);
   if (existingUser) {
-    return json<ActionData>(
-      { errors: { email: "A user already exists with this email" } },
-      { status: 400 }
-    );
+    return json<ActionData>({ errors: { email: "A user already exists with this email" } }, { status: 400 });
   }
 
   const user = await createUser(email, password);
@@ -98,10 +79,7 @@ export default function Join() {
       <div className="mx-auto w-full max-w-md px-8">
         <Form method="post" className="space-y-6">
           <div>
-            <label
-              htmlFor="email"
-              className="block text-sm font-medium text-gray-700"
-            >
+            <label htmlFor="email" className="block text-sm font-medium text-gray-700">
               Email address
             </label>
             <div className="mt-1">
@@ -126,10 +104,7 @@ export default function Join() {
           </div>
 
           <div>
-            <label
-              htmlFor="password"
-              className="block text-sm font-medium text-gray-700"
-            >
+            <label htmlFor="password" className="block text-sm font-medium text-gray-700">
               Password
             </label>
             <div className="mt-1">
