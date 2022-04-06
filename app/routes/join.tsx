@@ -1,6 +1,6 @@
+import { Form, Link, useActionData, useSearchParams } from "@remix-run/react";
+import { json, redirect, type ActionFunction, type LoaderFunction, type MetaFunction } from "@remix-run/server-runtime";
 import * as React from "react";
-import type { ActionFunction, LoaderFunction, MetaFunction } from "remix";
-import { Form, json, Link, redirect, useActionData, useSearchParams } from "remix";
 import { createUser, getUserByEmail } from "~/models/user.server";
 import { createUserSession, getUserId } from "~/session.server";
 import { validateEmail } from "~/utils";
@@ -32,7 +32,7 @@ export const action: ActionFunction = async ({ request }) => {
     return json<ActionData>({ errors: { password: "Password is required" } }, { status: 400 });
   }
 
-  if (password.length < 8) {
+  if (password.length < 4) {
     return json<ActionData>({ errors: { password: "Password is too short" } }, { status: 400 });
   }
 

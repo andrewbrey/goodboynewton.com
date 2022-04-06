@@ -1,10 +1,10 @@
-import { Headers, Response } from "@remix-run/node";
+import { Headers, Response, type EntryContext } from "@remix-run/node";
+import { RemixServer } from "@remix-run/react";
 import isbot from "isbot";
 import { PassThrough } from "node:stream";
 // TODO: remove ts-expect-error when @types are updated
 // @ts-expect-error
 import { renderToPipeableStream } from "react-dom/server";
-import { RemixServer, type EntryContext } from "remix";
 
 const ABORT_TIMEOUT = 5000;
 

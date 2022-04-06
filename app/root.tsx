@@ -1,7 +1,7 @@
-import type { LinksFunction, LoaderFunction, MetaFunction } from "remix";
-import { json, Links, LiveReload, Meta, Outlet, Scripts, ScrollRestoration } from "remix";
-import { getUser } from "./session.server";
-import tailwindStylesheetUrl from "./styles/tailwind.css";
+import { Links, LiveReload, Meta, Outlet, Scripts, ScrollRestoration } from "@remix-run/react";
+import { json, type LinksFunction, type LoaderFunction, type MetaFunction } from "@remix-run/server-runtime";
+import { getUser } from "~/session.server";
+import tailwindStylesheetUrl from "~/styles/tailwind.css";
 
 export const links: LinksFunction = () => {
   return [{ rel: "stylesheet", href: tailwindStylesheetUrl }];
@@ -9,7 +9,7 @@ export const links: LinksFunction = () => {
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "Remix Notes",
+  title: "Good Boy Newton",
   viewport: "width=device-width,initial-scale=1",
 });
 

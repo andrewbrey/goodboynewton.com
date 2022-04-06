@@ -1,6 +1,6 @@
+import { Form, Link, useActionData, useSearchParams } from "@remix-run/react";
+import { json, redirect, type ActionFunction, type LoaderFunction, type MetaFunction } from "@remix-run/server-runtime";
 import * as React from "react";
-import type { ActionFunction, LoaderFunction, MetaFunction } from "remix";
-import { Form, json, Link, redirect, useActionData, useSearchParams } from "remix";
 import { verifyLogin } from "~/models/user.server";
 import { createUserSession, getUserId } from "~/session.server";
 import { validateEmail } from "~/utils";
@@ -33,7 +33,7 @@ export const action: ActionFunction = async ({ request }) => {
     return json<ActionData>({ errors: { password: "Password is required" } }, { status: 400 });
   }
 
-  if (password.length < 8) {
+  if (password.length < 4) {
     return json<ActionData>({ errors: { password: "Password is too short" } }, { status: 400 });
   }
 
@@ -47,7 +47,7 @@ export const action: ActionFunction = async ({ request }) => {
     request,
     userId: user.id,
     remember: remember === "on" ? true : false,
-    redirectTo: typeof redirectTo === "string" ? redirectTo : "/notes",
+    redirectTo: typeof redirectTo === "string" ? redirectTo : "/",
   });
 };
 
@@ -59,7 +59,7 @@ export const meta: MetaFunction = () => {
 
 export default function LoginPage() {
   const [searchParams] = useSearchParams();
-  const redirectTo = searchParams.get("redirectTo") || "/notes";
+  const redirectTo = searchParams.get("redirectTo") || "/";
   const actionData = useActionData() as ActionData;
   const emailRef = React.useRef<HTMLInputElement>(null);
   const passwordRef = React.useRef<HTMLInputElement>(null);
