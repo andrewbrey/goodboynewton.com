@@ -1,7 +1,13 @@
+const { fontFamily } = require("tailwindcss/defaultTheme");
+
 module.exports = {
   content: ["./app/**/*.{ts,tsx,jsx,js}"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        game: ["PressStart2P", ...fontFamily.mono],
+      },
+    },
   },
-  plugins: [],
+  plugins: [require("@tailwindcss/forms")],
 };

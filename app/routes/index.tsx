@@ -1,34 +1,12 @@
-import { Link } from "@remix-run/react";
 import { useOptionalUser } from "~/utils";
 
 export default function Index() {
-  const user = useOptionalUser();
+  const _user = useOptionalUser();
   return (
-    <main className="relative min-h-screen bg-white sm:flex sm:items-center sm:justify-center">
-      <div className="mx-auto mt-10 max-w-sm sm:flex sm:max-w-none sm:justify-center">
-        {user ? (
-          <Link
-            to="/newton"
-            className="flex items-center justify-center rounded-md border border-transparent bg-white px-4 py-3 text-base font-medium text-yellow-700 shadow-sm hover:bg-yellow-50 sm:px-8"
-          >
-            View Newton for {user.email}
-          </Link>
-        ) : (
-          <div className="space-y-4 sm:mx-auto sm:inline-grid sm:grid-cols-2 sm:gap-5 sm:space-y-0">
-            <Link
-              to="/join"
-              className="flex items-center justify-center rounded-md border border-transparent bg-white px-4 py-3 text-base font-medium text-yellow-700 shadow-sm hover:bg-yellow-50 sm:px-8"
-            >
-              Sign up
-            </Link>
-            <Link
-              to="/login"
-              className="flex items-center justify-center rounded-md bg-yellow-500 px-4 py-3 font-medium text-white hover:bg-yellow-600  "
-            >
-              Log In
-            </Link>
-          </div>
-        )}
+    <main className="grid h-full place-items-center p-4">
+      <div className="mb-80">
+        <h1 className="font-game text-5xl">Good Boy Newton</h1>
+        <p className="text-2xl">Newton is a very good boy</p>
       </div>
     </main>
   );

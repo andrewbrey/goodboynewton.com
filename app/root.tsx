@@ -1,7 +1,7 @@
 import { Links, LiveReload, Meta, Outlet, Scripts, ScrollRestoration } from "@remix-run/react";
 import { json, type LinksFunction, type LoaderFunction, type MetaFunction } from "@remix-run/server-runtime";
 import { getUser } from "~/session.server";
-import tailwindStylesheetUrl from "~/styles/tailwind.css";
+import tailwindStylesheetUrl from "~/styles/index.css";
 
 export const links: LinksFunction = () => {
   return [{ rel: "stylesheet", href: tailwindStylesheetUrl }];
@@ -25,7 +25,7 @@ export const loader: LoaderFunction = async ({ request }) => {
 
 export default function App() {
   return (
-    <html lang="en" className="h-full">
+    <html lang="en" className="h-full bg-amber-400">
       <head>
         <Meta />
         <Links />
