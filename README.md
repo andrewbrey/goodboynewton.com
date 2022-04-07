@@ -1,5 +1,7 @@
 # Good Boy Newton
 
+Newton is a very good boy.
+
 ## Development
 
 - Initial setup:
