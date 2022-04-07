@@ -36,6 +36,57 @@ export function useUser(): User {
   return maybeUser;
 }
 
+/**
+ * Custom adaptation of hook found in https://github.com/sergiodxa/remix-utils, but with the
+ * logic of the original inverted.
+ *
+ * @see https://github.com/sergiodxa/remix-utils/blob/34cb0386c2a7a4207dc0455bdba729546f25ca1b/src/react/use-should-hydrate.ts
+ *
+ * Determine if all of the loaded routes are asking not to load JS and return a
+ * boolean.
+ *
+ * To request JS not to be loaded, the route must export a handle with an object,
+ * this object must contain a boolean property named `skipHydrate` or a function
+ * named `skipHydrate`, in which case the function will be called with the `data`
+ * from the loader of that route so it can be used to dynamically load or not
+ * JavaScript.
+ * @example
+ * // This route needs to load JS
+ * export let handle = { skipHydrate: true };
+ * @example
+ * // This route uses the data to know if it should load JS
+ * export let handle = {
+ *   skipHydrate(data: RouteData) {
+ *     return data.needsJs;
+ *   }
+ * };
+ */
+export function useSkipHydrate() {
+  const matches = useMatches();
+  const skipHydrate = matches
+    .filter((m) => m.id !== "root")
+    .every((match) => {
+      if (!match.handle) return false;
+
+      let { handle, data } = match;
+
+      // handle must be an object to continue
+      if (typeof handle !== "object") return false;
+      if (handle === null) return false;
+      if (Array.isArray(handle)) return false;
+
+      // get skipHydrate from handle (it may not exists)
+      let skipHydrate = handle.skipHydrate as undefined | boolean | ((data: unknown) => boolean);
+
+      if (!skipHydrate) return false;
+
+      if (typeof skipHydrate === "function") return skipHydrate(data);
+      return skipHydrate;
+    });
+
+  return skipHydrate;
+}
+
 export function validateEmail(email: unknown): email is string {
   return typeof email === "string" && email.length > 3 && email.includes("@");
 }
