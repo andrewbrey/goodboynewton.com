@@ -2,9 +2,11 @@ node_modules
 
 /build
 /public/build
+/public/game
 .env
 
 /prisma/data.db
 /prisma/data.db-journal
 
 /app/styles/index.css
+/app/game/hash.ts

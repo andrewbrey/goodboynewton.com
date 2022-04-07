@@ -1,5 +1,6 @@
 import { Links, LiveReload, Meta, Outlet, Scripts, ScrollRestoration } from "@remix-run/react";
 import { json, type LinksFunction, type LoaderFunction, type MetaFunction } from "@remix-run/server-runtime";
+import { useShouldHydrate } from "remix-utils";
 import { getUser } from "~/session.server";
 import tailwindStylesheetUrl from "~/styles/index.css";
 
@@ -24,6 +25,8 @@ export const loader: LoaderFunction = async ({ request }) => {
 };
 
 export default function App() {
+  const shouldHydrate = useShouldHydrate();
+
   return (
     <html lang="en" className="h-full bg-amber-400">
       <head>
@@ -33,7 +36,7 @@ export default function App() {
       <body className="h-full">
         <Outlet />
         <ScrollRestoration />
-        <Scripts />
+        {shouldHydrate ? <Scripts /> : null}
         <LiveReload />
       </body>
     </html>

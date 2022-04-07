@@ -7,13 +7,15 @@
   "scripts": {
     "build": "run-s clean build:*",
     "build:css": "npm run generate:css -- --minify",
+    "build:game": "cross-env NODE_ENV=production esno scripts/build-game.ts",
     "build:remix": "remix build",
     "dev": "run-p dev:*",
     "dev:css": "npm run generate:css -- --watch",
-    "dev:remix": "cross-env NODE_ENV=development binode --require ./mocks -- @remix-run/dev:remix dev",
+    "dev:game": "cross-env NODE_ENV=development esno scripts/build-game.ts",
+    "dev:remix": "wait-on app/styles/index.css app/game/hash.ts && cross-env NODE_ENV=development binode --require ./mocks -- @remix-run/dev:remix dev",
     "dev:studio": "prisma studio --browser none --port 3001",
     "format": "prettier --write .",
-    "clean": "rimraf build public/build/ app/styles/index.css",
+    "clean": "rimraf build public/build/ public/game/ app/game/hash.ts app/styles/index.css",
     "generate:css": "tailwindcss -i ./app/styles/tailwind.css -o ./app/styles/index.css",
     "postinstall": "remix setup node",
     "lint": "eslint --cache --cache-location ./node_modules/.cache/eslint .",
@@ -38,9 +40,11 @@
     "@remix-run/serve": "1.3.4",
     "bcryptjs": "2.4.3",
     "isbot": "3.4.5",
+    "kaboom": "2000.2.9",
     "react": "18.0.0",
     "react-dom": "18.0.0",
     "remix": "1.3.4",
+    "remix-utils": "3.0.0",
     "tiny-invariant": "1.2.0"
   },
   "devDependencies": {
@@ -61,6 +65,7 @@
     "cross-env": "7.0.3",
     "eslint": "8.12.0",
     "eslint-config-prettier": "8.5.0",
+    "esno": "0.14.1",
     "happy-dom": "2.55.0",
     "msw": "0.39.2",
     "npm-run-all": "4.1.5",
@@ -73,7 +78,8 @@
     "tsconfig-paths": "3.14.1",
     "typescript": "4.6.3",
     "vite-tsconfig-paths": "3.4.1",
-    "vitest": "0.9.0"
+    "vitest": "0.9.0",
+    "wait-on": "6.0.1"
   },
   "engines": {
     "node": ">=16"
