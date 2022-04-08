@@ -1,4 +1,4 @@
-import { Headers, Response, type EntryContext } from "@remix-run/node";
+import { Response, type EntryContext, type Headers } from "@remix-run/node";
 import { RemixServer } from "@remix-run/react";
 import isbot from "isbot";
 import { PassThrough } from "node:stream";

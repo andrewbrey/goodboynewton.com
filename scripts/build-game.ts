@@ -1,5 +1,5 @@
-import { build, Plugin } from "esbuild";
 import { config } from "dotenv";
+import { build, type Plugin } from "esbuild";
 import { writeFile } from "fs/promises";
 import { join } from "node:path";
 
@@ -27,9 +27,10 @@ let gameBuildLogger: Plugin = {
 
         await writeFile(
           hashFile,
-          ["// AUTO-GENERATED FILE, DO NOT IMPORT WITHIN GAME MODULE GRAPH!", `export default "${finalHash}";`].join(
-            "\n"
-          ),
+          `
+// AUTO-GENERATED FILE, DO NOT IMPORT WITHIN GAME MODULE GRAPH!
+export default "${finalHash}";
+`.trim(),
           { encoding: "utf-8" }
         );
 
