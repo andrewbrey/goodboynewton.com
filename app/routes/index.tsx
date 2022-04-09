@@ -7,11 +7,11 @@ export default function Index() {
 
   return (
     <main id="game-container" className="relative grid h-full place-items-center overflow-hidden">
-      <div className="absolute">
+      <div className="absolute z-10">
         <h1 className="font-game text-5xl">Good Boy Newton</h1>
         <p className="text-2xl">Newton is a very good boy</p>
       </div>
-      <canvas id="game"></canvas>
+      <canvas id="game" className="absolute inset-0 z-0 h-full w-full"></canvas>
     </main>
   );
 }
