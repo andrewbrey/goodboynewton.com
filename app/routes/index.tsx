@@ -11,7 +11,6 @@ export default function Index() {
         <h1 className="font-game text-5xl">Good Boy Newton</h1>
         <p className="text-2xl">Newton is a very good boy</p>
       </div>
-      <canvas id="game" className="absolute inset-0 z-0 h-full w-full"></canvas>
     </main>
   );
 }
