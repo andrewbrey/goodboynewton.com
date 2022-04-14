@@ -17,7 +17,6 @@
     "format": "prettier --write .",
     "clean": "rimraf build public/build/ public/game/ app/game/hash.ts app/styles/index.css",
     "generate:css": "tailwindcss -i ./app/styles/tailwind.css -o ./app/styles/index.css",
-    "postinstall": "remix setup node",
     "lint": "eslint --cache --cache-location ./node_modules/.cache/eslint .",
     "setup": "prisma migrate dev && prisma db seed",
     "start": "remix-serve build",
@@ -31,16 +30,14 @@
   },
   "dependencies": {
     "@prisma/client": "3.12.0",
+    "@remix-run/node": "1.4.0",
     "@remix-run/react": "1.4.0",
     "@remix-run/serve": "1.4.0",
-    "@remix-run/node": "1.4.0",
-    "@remix-run/server-runtime": "1.4.0",
     "bcryptjs": "2.4.3",
     "isbot": "3.4.5",
     "phaser": "3.55.2",
     "react": "18.0.0",
     "react-dom": "18.0.0",
-    "remix": "1.4.0",
     "tiny-invariant": "1.2.0"
   },
   "devDependencies": {
