@@ -3,7 +3,7 @@ import { json, redirect, type ActionFunction, type LoaderFunction, type MetaFunc
 import * as React from "react";
 import { createUser, getUserByEmail } from "~/models/user.server";
 import { createUserSession, getUserId } from "~/session.server";
-import { validateEmail } from "~/utils";
+import { safeRedirect, validateEmail } from "~/utils";
 
 export const loader: LoaderFunction = async ({ request }) => {
   const userId = await getUserId(request);
@@ -22,7 +22,7 @@ export const action: ActionFunction = async ({ request }) => {
   const formData = await request.formData();
   const email = formData.get("email");
   const password = formData.get("password");
-  const redirectTo = formData.get("redirectTo");
+  const redirectTo = safeRedirect(formData.get("redirectTo"));
 
   if (!validateEmail(email)) {
     return json<ActionData>({ errors: { email: "Email is invalid" } }, { status: 400 });
@@ -47,7 +47,7 @@ export const action: ActionFunction = async ({ request }) => {
     request,
     userId: user.id,
     remember: false,
-    redirectTo: typeof redirectTo === "string" ? redirectTo : "/",
+    redirectTo,
   });
 };
 
