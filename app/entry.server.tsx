@@ -2,8 +2,6 @@ import { Response, type EntryContext, type Headers } from "@remix-run/node";
 import { RemixServer } from "@remix-run/react";
 import isbot from "isbot";
 import { PassThrough } from "node:stream";
-// TODO: remove ts-expect-error when @types are updated
-// @ts-expect-error
 import { renderToPipeableStream } from "react-dom/server";
 
 const ABORT_TIMEOUT = 5000;
@@ -33,10 +31,10 @@ export default function handleRequest(
         );
         pipe(body);
       },
-      onShellError(err: Error) {
+      onShellError(err: unknown) {
         reject(err);
       },
-      onError(error: Error) {
+      onError(error: unknown) {
         didError = true;
         console.error(error);
       },
