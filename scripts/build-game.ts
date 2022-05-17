@@ -1,7 +1,8 @@
 import { config } from "dotenv";
 import { build, type Plugin } from "esbuild";
 import { writeFile } from "fs/promises";
-import { join } from "node:path";
+import { dirname, join } from "node:path";
+import { fileURLToPath } from "node:url";
 
 config();
 
@@ -23,7 +24,8 @@ let gameBuildLogger: Plugin = {
         const finalHash = Object.keys(results.metafile?.outputs ?? {})[0]
           .split("-")[1]
           .split(".")[0];
-        const hashFile = join(__dirname, "..", "app", "game", "hash.ts");
+        // @ts-expect-error
+        const hashFile = join(dirname(fileURLToPath(import.meta.url)), "..", "app", "game", "hash.ts");
 
         await writeFile(
           hashFile,
