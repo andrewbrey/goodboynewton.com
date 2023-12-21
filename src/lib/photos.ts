@@ -57,7 +57,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "aabcgr1z1xigo38uayqs",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -66,7 +66,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "aalfmnod60jgutmku4ip",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -75,7 +75,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "b1ldnjdlm3l7ebvg6mbq",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -84,7 +84,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "bacohhll8zmz5m5ubyry",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -93,7 +93,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "bqedjjh1sjnmt7bxcvvh",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -102,7 +102,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "bsbm7agmmdjwfzkeepnm",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -111,7 +111,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "bu05wed4xutcj0z5hk0h",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -120,7 +120,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "bwrcgmms2fhzw8srfb6b",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -129,7 +129,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "c2fscw9cwmmps7hihjgw",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -138,7 +138,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "ceogc8rvbm2ccwlhdo7m",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -147,7 +147,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "cgeoa5efm6umfpoqjtyg",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -156,7 +156,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "chrddnmp6lflc9ycw8zf",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -165,7 +165,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "cmb3usezfpcmrhqwlugc",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -174,7 +174,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "d0uissz1sg1brmxqygez",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -183,7 +183,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "d6rc5zniyscjbpkvgydt",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -192,7 +192,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "dehkjtz1gndipwcgsd1v",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -201,7 +201,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "df9orngzav0ogv2r7xhv",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -210,7 +210,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "dfgpe1yaavxpwhqbkogn",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -219,7 +219,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "dhc4odtgctbr68hm7ywr",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -228,7 +228,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "di4znyjftdkqvcwtorsc",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -237,7 +237,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "dvc10rbewbwxhzrqvrvb",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -246,7 +246,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "e3tguwt3jkwrohmr7ngo",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -255,7 +255,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "ei0mr3zkuxlcaulickbt",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -264,7 +264,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "eigo37ylbmoegok0ycgj",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -273,7 +273,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "eps4cxdxjtpzvzadftsk",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -282,7 +282,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "fuyfqdnn1eygwggv1rtp",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -291,7 +291,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "g6urjgbd5rapmkr9oevz",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -300,7 +300,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "gir6u3h71oe9elltqgya",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -309,7 +309,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "gjvmw2nhrdtutyg1clos",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -318,7 +318,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "gmym6ggmki4c2hsaa06l",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -327,7 +327,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "gqdv53yittuomx3xs3nw",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -336,7 +336,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "gynkhyt4qazu4tqt5wnb",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -345,7 +345,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "hih9mtheicvtqcvvuyil",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -354,7 +354,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "hmro982sochtce5gfe1r",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -363,7 +363,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "i0yh9ybkqltpwfy8y42f",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -372,7 +372,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "i97dozc0adnykciiamlr",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -381,7 +381,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "idw1x1sjtbhgmghchmpg",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -390,7 +390,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "idw82fdhupmuxi7okhtt",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -399,7 +399,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "inp8f8hxiy2p6hbq94oa",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -408,7 +408,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "iosphl1dtbvsavpzy2pr",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -417,7 +417,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "iuztnfaigsins8g6b74j",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -426,7 +426,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "jmsopszoui6h6g8z6yfa",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -435,7 +435,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "jopg8ur2vqvkfxrgjeoe",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -444,7 +444,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "k0lq3ejtzuzs5dm3hlvv",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -453,7 +453,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "k3n2mmj3bjr9iiv949ff",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -462,7 +462,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "kdpquf1lfwekacsk9acu",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -471,7 +471,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "kl6q0vvjzvnpewniwoji",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -480,7 +480,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "krgljmwwtqlimmdmk3ux",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -489,7 +489,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "ktwbhzymhioejotsxhbp",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -498,7 +498,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "kv3xj6xfx8xpwsrzzeix",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -507,7 +507,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "l2yxixtpgt83ozaccx65",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -516,7 +516,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "l90oinzelonj02yydd8w",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -525,7 +525,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "land8wgf2qpghtto9hhp",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -534,7 +534,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "lcapvtsxgt5fulj1djig",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -543,7 +543,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "lcfjq6doribzwsuetcoq",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -552,7 +552,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "lfeufq1dz0hgmndbkqs4",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -561,7 +561,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "lotwyyc7t402nz4w70t4",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -570,7 +570,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "lrd13fw0vhnyydgw4mwc",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -579,7 +579,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "lwnvaplwimz5d1sf7yj1",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -588,7 +588,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "lzmad0s6nl73k2jzewtv",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -597,7 +597,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "mctfkkux9mnt7ckmtkfd",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -606,7 +606,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "mfswpyudlwutwrq8zfd3",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -615,7 +615,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "mioru8odvwx5ye4xhimg",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -626,68 +626,68 @@ export const PHOTOS: Array<Photo> = [
 		img: "mnovwfzutupp3apmvnpg",
 		alt: "Newton the golden retriever laying half-on, half-off of his dog bet. He is gazing sweetly into the camera that is close in on his face.",
 		title: "Sun Highlights",
-		date: "2023-10-02",
+		date: "2022-03-31",
 		where: "Ballard, WA",
 		text: "It's important to take the time you need to rest and recover, ideally in a spot that gives you beautiful sun highlighting!",
 		bg: "#957664"
 	},
 	{
 		img: "mpetnqmn4xiku3l21bxd",
-		alt: "",
-		title: "",
-		date: "2023-12-21",
-		where: "",
-		text: "",
-		bg: ""
+		alt: "Newton the golden retriever laying down in the grass and sloppily drinking out of a water dish on a bright sunny day.",
+		title: "Why Stand When You Can Lay?",
+		date: "2016-07-30",
+		where: "Englewood, CO",
+		text: "I wish I could play fetch all day every day in our sunny back yard! I barely want to stop for water, even when I'm super tired!",
+		bg: "#416723"
 	},
 	{
 		img: "mptawo4fdm0txj9v3wlp",
-		alt: "",
-		title: "",
-		date: "2023-12-21",
-		where: "",
-		text: "",
-		bg: ""
+		alt: "Newton the golden retriever sitting on his bottom in a dimly lit hallway, looking up at the camera with a face that seems to indicate that he would like a snack.",
+		title: "Midnight Snack?",
+		date: "2022-10-13",
+		where: "Ballard, WA",
+		text: "Dad, it's almost midnight and you're snacking...can I have a snack too? I haven't eaten in 3 days and I'm really REALLY hungry!",
+		bg: "#251C0F"
 	},
 	{
 		img: "myre0idrdyhapeujuh5a",
-		alt: "",
-		title: "",
-		date: "2023-12-21",
-		where: "",
-		text: "",
-		bg: ""
+		alt: "Newton the golden retriever sitting on his bottom in a turf field on a bright sunny day. He's looking up at the camera with a huge smile.",
+		title: "Making Friends",
+		date: "2019-07-21",
+		where: "Doggy Daycare, Ballard, WA",
+		text: "I don't really like the other dogs at daycare, so I make friends with the daycare people and they give me extra kisses and take my picture!",
+		bg: "#37495E"
 	},
 	{
 		img: "nabagccqnpkxqs5ylmf7",
-		alt: "",
-		title: "",
-		date: "2023-12-21",
-		where: "",
-		text: "",
-		bg: ""
+		alt: "Newton the baby golden retriever laying on his back on a tile floor but with his head laying on his side so he looks like a puppy pretzel.",
+		title: "What, I'm Comfy Like This",
+		date: "2013-08-19",
+		where: "Denver, CO",
+		text: "I'm just a baby, I'm still trying to pin down all the best positions for naps between playtimes...maybe this one?",
+		bg: "#422511"
 	},
 	{
 		img: "ng19xkysjgvul7giyl1e",
-		alt: "",
-		title: "",
-		date: "2023-12-21",
-		where: "",
-		text: "",
-		bg: ""
+		alt: "Newton the golden retriever sitting on his bottom looking off to the side with his mouth half-open and making a very funny expression with his lip stuck to his teet. ",
+		title: "Will I smell like this forever?",
+		date: "2014-01-02",
+		where: "Fort Collins, CO",
+		text: "Mom, I'm not so sure I like baths because now I smell like oatmeal doggy shampoo and it's making me confused and hungry!",
+		bg: "#412A22"
 	},
 	{
 		img: "nje8jngbzsv4mkwqlfw5",
-		alt: "",
-		title: "",
-		date: "2023-12-21",
-		where: "",
-		text: "",
-		bg: ""
+		alt: "Newton the baby golden retriever walking with his leash on the sidewalk in the early morning sun.",
+		title: "My First Walk!",
+		date: "2013-03-31",
+		where: "Fort Collins, CO",
+		text: "Mom, I'm sorry I pooped in my crate on my first night home, and that I got you up at sunrise, and that I don't understand this rope thingy...I love you forever!",
+		bg: "#111557"
 	},
 	{
 		img: "nm0uztu2opbwsesjqsnd",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -696,7 +696,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "nsx0lhycjphzuwlqf6pg",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -705,7 +705,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "nym2yo6twuigq9q7ybkz",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -714,7 +714,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "ooirre6bqbezvay7ttfe",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -723,7 +723,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "ouiipf7y4mawwxxnb7xi",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -732,7 +732,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "ox83dxkdcpckcj9kkauh",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -741,7 +741,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "oxhinpxmfujblr6yxuhl",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -750,7 +750,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "p3thpx5kozyqw6idxopg",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -759,7 +759,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "pgqmmthb99uvlcimhcje",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -768,7 +768,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "pprfmezdezkrykrzexbe",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -777,7 +777,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "pupuih8t2ywtukr6at72",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -786,7 +786,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "pvswut1n5n16rmhfcmjs",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -795,7 +795,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "pvvqh12kk6mmkoo2r2tt",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -804,7 +804,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "q3lkrvq1nc5b5y3ngbpn",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -813,7 +813,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "q3yvdmwcdtymx1w28kjg",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -822,7 +822,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "q66lyuyaqtennevlqt0k",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -831,7 +831,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "qcam6dpbbwsd85amuqyw",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -840,7 +840,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "qctroyvnvimmcfeirmcr",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -849,7 +849,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "qdnbqmg6rfbvojo9uqyk",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -858,7 +858,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "qgqtdqlkfguafw2bv0rc",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -867,7 +867,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "qnl3ww8xa5nyg8xlcxbi",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -876,7 +876,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "qpyl963zuscpmjzgqbay",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -885,7 +885,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "qs0rsp3lyoiyio75wg4x",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -894,7 +894,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "qsftuanwuvr1hj8z0vck",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -903,7 +903,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "qv2q5oskk32erarrged0",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -912,7 +912,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "r247rwrn4xkmzjkbmzhq",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -921,7 +921,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "r4y1tltxou9djjuj47md",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -930,7 +930,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "rylmskhwo09ufiafac1o",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -939,7 +939,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "s8nmon4ruqtwcvwggzgn",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -948,7 +948,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "sdpiecctr25onoyeib8m",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -957,7 +957,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "t7olwc4qxrbf7xinqef6",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -966,7 +966,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "tavvzeufri62zxvu6vsb",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -975,7 +975,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "tbuhwwv1tcxypd9e49mr",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -984,7 +984,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "tcrnwtkjverv572z9ugc",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -993,7 +993,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "tdjw9trkke8ciwmkcbjv",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1002,7 +1002,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "tfgabpda0w6m4wwvdzo4",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1011,7 +1011,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "tnogygv1gu6ajtqehpv7",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1020,7 +1020,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "toiku6bhxjaligtgzdgr",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1029,7 +1029,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "u5f1s0geqtohycauj0oj",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1038,7 +1038,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "udab6ged5b7vq7ezndun",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1047,7 +1047,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "uphlz8ty1sd0xfcbahrc",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1056,7 +1056,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "utxwd0cjjzpzo6qpfnq0",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1065,7 +1065,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "uv2qlhtly5hfl39q88ku",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1074,7 +1074,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "v0cbmke9rupkn8ac0m9i",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1083,7 +1083,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "van04eqhhu9rsuovtjiv",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1092,7 +1092,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "vfnuewejo8knfkcqs49o",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1101,7 +1101,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "vp0wyb6brpzdtvws2xbc",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1110,7 +1110,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "vq7accomh6fcf5lxi72u",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1119,7 +1119,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "wcfzzknhehm2lwsifob4",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1128,7 +1128,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "wervgcd1uqejzcimh85l",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1137,7 +1137,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "wgxrhxpsxrovucptzfsn",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1146,7 +1146,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "wheud06kqvv1qwtdbwqf",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1155,7 +1155,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "ww9riikj7ghaglwfqen1",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1164,7 +1164,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "wzm0zk7bazerdbt3lyj5",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1173,7 +1173,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "x7uogjahyt9uejbf0aiz",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1182,7 +1182,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "xj7yycdkejiogyo42ffv",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1191,7 +1191,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "xmriqhvad2jxpt6ggqzt",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1200,7 +1200,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "y5i3rc4cucf779mj74oz",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1209,7 +1209,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "yaqqbzetnlgzdfdi2jct",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1218,7 +1218,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "yb3kwcjvrir474cwzktr",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1227,7 +1227,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "yjl3g18oys8na80m2mgg",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1236,7 +1236,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "ylmuxmyz8szcmsgkq1ou",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1245,7 +1245,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "yookin0waseqo5rk3vbq",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1254,7 +1254,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "zbcp82kuehbh4apshrc4",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1263,7 +1263,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "zkuuxfn0xumteyfghhrp",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1272,7 +1272,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "zlzgd9cpkayf1moqsn4m",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1281,7 +1281,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "zo9gmxvuddplqm4tzfjy",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
@@ -1290,7 +1290,7 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "zov5mopmlzmpqnqfganv",
-		alt: "",
+		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
 		where: "",
