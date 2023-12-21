@@ -44,6 +44,10 @@ export let data: PageData;
 				width={10000}
 				height={10000}
 				priority={true}
+				gravity={data.imgGravity}
+				decoding="sync"
+				loading="eager"
+				fetchpriority="high"
 				sizes="(min-width:1920px) 3200px, (min-width:1080px) 2000px, (min-width:768px) 1200px"
 				class="pointer-events-none h-full min-h-[420px] w-full select-none object-cover text-transparent"
 			/>
