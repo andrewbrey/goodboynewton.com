@@ -624,12 +624,12 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "mnovwfzutupp3apmvnpg",
-		alt: "",
-		title: "",
-		date: "2023-12-21",
-		where: "",
-		text: "",
-		bg: ""
+		alt: "Newton the golden retriever laying half-on, half-off of his dog bet. He is gazing sweetly into the camera that is close in on his face.",
+		title: "Sun Highlights",
+		date: "2023-10-02",
+		where: "Ballard, WA",
+		text: "It's important to take the time you need to rest and recover, ideally in a spot that gives you beautiful sun highlighting!",
+		bg: "#957664"
 	},
 	{
 		img: "mpetnqmn4xiku3l21bxd",

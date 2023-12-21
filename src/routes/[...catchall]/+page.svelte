@@ -16,6 +16,8 @@ export let data: PageData;
 
 <div
 	class="grid min-h-dvh w-screen overflow-x-hidden xl:h-dvh xl:overflow-hidden"
+	data-caldoy={data.calDoy}
+	data-doyidx={data.idx}
 	style="--accent:{data.bg};--brand-opacity: 0.2;"
 >
 	<header

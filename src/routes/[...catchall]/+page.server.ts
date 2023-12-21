@@ -6,8 +6,9 @@ import type { PageServerLoad } from "./$types";
 export const load = (async ({ request }) => {
 	const url = new URL(request.url);
 	const urlDoy = url.searchParams.get("doy");
+	const calDoy = getDayOfYear(new Date());
 
-	const doy = urlDoy ? parseInt(urlDoy) : getDayOfYear(new Date());
+	const doy = urlDoy ? parseInt(urlDoy) : calDoy;
 	let idx = doy - 1;
 	while (idx >= PHOTOS.length) {
 		idx -= PHOTOS.length;
@@ -27,6 +28,8 @@ export const load = (async ({ request }) => {
 		...photo,
 		isoDate,
 		prettyDate,
-		newtonAge
+		newtonAge,
+		calDoy,
+		idx
 	};
 }) satisfies PageServerLoad;
