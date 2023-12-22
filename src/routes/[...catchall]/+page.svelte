@@ -1,8 +1,41 @@
 <script lang="ts">
+import { dev } from "$app/environment";
+import { page } from "$app/stores";
 import { CldImage, CldOgImage } from "svelte-cloudinary";
 import type { PageData } from "./$types";
 
 export let data: PageData;
+
+function next(e: KeyboardEvent) {
+	if (dev) {
+		const current =
+			document.querySelector<HTMLDivElement>("[data-doyidx]")?.dataset["doyidx"] ?? "0";
+
+		const next = parseInt(current) + 2; // doy is 1-indexed, so add 2
+		const previous = parseInt(current); // doy is 1-indexed, so current photo idx _is_ previous doy
+
+		switch (e.key) {
+			case "n": {
+				$page.url.searchParams.set("doy", `${next}`);
+				window.location.href = $page.url.href;
+				break;
+			}
+			case "p": {
+				$page.url.searchParams.set("doy", `${previous}`);
+				window.location.href = $page.url.href;
+				break;
+			}
+			case "t": {
+				$page.url.searchParams.delete("doy");
+				window.location.href = $page.url.href;
+				break;
+			}
+			default: {
+				break;
+			}
+		}
+	}
+}
 </script>
 
 <CldOgImage
@@ -13,6 +46,8 @@ export let data: PageData;
 	title="Good Boy Newton · Newton is a very good boy."
 	twitterTitle="Good Boy Newton · Newton is a very good boy."
 />
+
+<svelte:window on:keydown={next} />
 
 <div
 	class="grid min-h-dvh w-screen overflow-x-hidden xl:h-dvh xl:overflow-hidden"

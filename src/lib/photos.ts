@@ -56,6 +56,15 @@ export const PHOTOS: Array<Photo> = [
 		bg: "#2E2039"
 	},
 	{
+		img: "krzphvomxalk9ymis3ww",
+		alt: "Newton the golden retriever",
+		title: "",
+		date: "2023-12-21",
+		where: "",
+		text: "",
+		bg: ""
+	},
+	{
 		img: "aabcgr1z1xigo38uayqs",
 		alt: "Newton the golden retriever",
 		title: "",
@@ -165,6 +174,15 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "cmb3usezfpcmrhqwlugc",
+		alt: "Newton the golden retriever",
+		title: "",
+		date: "2023-12-21",
+		where: "",
+		text: "",
+		bg: ""
+	},
+	{
+		img: "f5fpcoopbykubatnkvnl",
 		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
@@ -507,48 +525,48 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "l2yxixtpgt83ozaccx65",
-		alt: "Newton the golden retriever",
-		title: "",
-		date: "2023-12-21",
-		where: "",
-		text: "",
-		bg: ""
+		alt: "Newton the golden retriever laying on his side on the bed. One of his ears is turned inside out, and he is laying on top of two different dog bones.",
+		title: "Two Bones, For Safety",
+		date: "2014-02-05",
+		where: "Denver, CO",
+		text: "I always keep a second bone on hand, just in case I need to change flavors at a moments notice!",
+		bg: "#786A43"
 	},
 	{
 		img: "l90oinzelonj02yydd8w",
-		alt: "Newton the golden retriever",
-		title: "",
-		date: "2023-12-21",
-		where: "",
-		text: "",
-		bg: ""
+		alt: "Newton the golden retriever is laying very squished and curled up in an arm chair. One of his front paws is wrapped up in a sock becuase he has a small injury.",
+		title: "Deep Thoughts",
+		date: "2017-06-15",
+		where: "Denver, CO",
+		text: "Yep, that's me - I bet you're wondering how I got here. Well it all started when I wasn't looking where I was going while playing fetch...",
+		bg: "#5E4F47"
 	},
 	{
 		img: "land8wgf2qpghtto9hhp",
-		alt: "Newton the golden retriever",
-		title: "",
-		date: "2023-12-21",
-		where: "",
-		text: "",
-		bg: ""
+		alt: "Newton the golden retriever looking very excited to be outside on a bright sunny day. He's ready for a day hike and is wearing his backpack and his boots.",
+		title: "Romp Ready!",
+		date: "2017-07-15",
+		where: "The Mountains of CO",
+		text: "Mom and Dad told me that I have to wear my boots and pack if we're going to hike for a long time. I love my all grey gear!",
+		bg: "#33613D"
 	},
 	{
 		img: "lcapvtsxgt5fulj1djig",
-		alt: "Newton the golden retriever",
-		title: "",
-		date: "2023-12-21",
-		where: "",
-		text: "",
-		bg: ""
+		alt: "Newton the golden retriever is laying primly on the freshly made bed on a warm morning. He looks like he's just waiting to play once he's called off the bed.",
+		title: "Freshly Made Bed",
+		date: "2014-02-16",
+		where: "Denver, CO",
+		text: "When Dad washes and flattens my bed, I like to enjoy it like that for a few minutes before I make it how I like.",
+		bg: "#632431"
 	},
 	{
 		img: "lcfjq6doribzwsuetcoq",
-		alt: "Newton the golden retriever",
-		title: "",
-		date: "2023-12-21",
-		where: "",
-		text: "",
-		bg: ""
+		alt: "Newton the golden retriever is surrounded by 4 of his young cousins ranging in age from 3 to 8. He seems very happy to have small friends to play with.",
+		title: "Cousin Party!",
+		date: "2019-01-01",
+		where: "Edmonds, WA",
+		text: "I love all of my cousins so much and they love me! I wish all my people were the same size as me!",
+		bg: "#253334"
 	},
 	{
 		img: "lfeufq1dz0hgmndbkqs4",
@@ -606,6 +624,15 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "mfswpyudlwutwrq8zfd3",
+		alt: "Newton the golden retriever",
+		title: "",
+		date: "2023-12-21",
+		where: "",
+		text: "",
+		bg: ""
+	},
+	{
+		img: "zuyqsaec5c686oy1xmsj",
 		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
@@ -688,11 +715,11 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "nm0uztu2opbwsesjqsnd",
 		alt: "Newton the golden retriever",
-		title: "",
-		date: "2023-12-21",
-		where: "",
-		text: "",
-		bg: ""
+		title: "Squeeeeshyface",
+		date: "2014-09-24",
+		where: "Denver, CO",
+		text: "Cuddles with Mom are so relaxing, I might just take a squishy little snoozicle!",
+		bg: "#5F2C28"
 	},
 	{
 		img: "nsx0lhycjphzuwlqf6pg",
@@ -714,6 +741,15 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "ooirre6bqbezvay7ttfe",
+		alt: "Newton the golden retriever",
+		title: "",
+		date: "2023-12-21",
+		where: "",
+		text: "",
+		bg: ""
+	},
+	{
+		img: "qurrudxodxadmdamajaa",
 		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
@@ -1037,6 +1073,15 @@ export const PHOTOS: Array<Photo> = [
 		bg: ""
 	},
 	{
+		img: "g1muixbdrfuhcaz9jjrp",
+		alt: "Newton the golden retriever",
+		title: "",
+		date: "2023-12-21",
+		where: "",
+		text: "",
+		bg: ""
+	},
+	{
 		img: "udab6ged5b7vq7ezndun",
 		alt: "Newton the golden retriever",
 		title: "",
@@ -1288,8 +1333,18 @@ export const PHOTOS: Array<Photo> = [
 		text: "",
 		bg: ""
 	},
+
 	{
 		img: "zov5mopmlzmpqnqfganv",
+		alt: "Newton the golden retriever",
+		title: "",
+		date: "2023-12-21",
+		where: "",
+		text: "",
+		bg: ""
+	},
+	{
+		img: "qgbg4g06hfbxwdvifpy7",
 		alt: "Newton the golden retriever",
 		title: "",
 		date: "2023-12-21",
