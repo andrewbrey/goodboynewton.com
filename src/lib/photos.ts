@@ -570,39 +570,39 @@ export const PHOTOS: Array<Photo> = [
 	},
 	{
 		img: "lfeufq1dz0hgmndbkqs4",
-		alt: "Newton the golden retriever",
-		title: "",
-		date: "2023-12-21",
-		where: "",
-		text: "",
-		bg: ""
+		alt: "Newton the golden retriever posing next to his dad while on a hike in the mountains. His front feet are up on a downed log and he is very happy.",
+		title: "Hikin' With Mom and Dad",
+		date: "2017-07-15",
+		where: "The Mountains of CO",
+		text: "Mom and Dad take me on the best hikes and I get to smell all the best stuff and I love Mom and Dad and especially Daaaad!",
+		bg: "#033957"
 	},
 	{
 		img: "lotwyyc7t402nz4w70t4",
-		alt: "Newton the golden retriever",
-		title: "",
-		date: "2023-12-21",
-		where: "",
-		text: "",
-		bg: ""
+		alt: "Newton the adolescent golden retriever sitting on his bottom on top of his large sized dog crate. He looks mischievously towards the camera.",
+		title: "Crate Sittin'",
+		date: "2013-08-13",
+		where: "Denver, CO",
+		text: "If Mom didn't want me to sit on top of my crate when she tells me to 'go to my crate' why would she make it so comfy?",
+		bg: "#421B0F"
 	},
 	{
 		img: "lrd13fw0vhnyydgw4mwc",
-		alt: "Newton the golden retriever",
-		title: "",
-		date: "2023-12-21",
-		where: "",
-		text: "",
-		bg: ""
+		alt: "Newton the golden retriever standing in the lobby of an apartment building and wearing a red rain coat because he is about to go for a walk in the rain.",
+		title: "It's Rainy Here",
+		date: "2019-10-18",
+		where: "Seattle, WA",
+		text: "I love water almost much as I love Mom and Dad, but I don't really like to get wet, so I'm glad I have a cute red rain coat!",
+		bg: "#90131C"
 	},
 	{
 		img: "lwnvaplwimz5d1sf7yj1",
-		alt: "Newton the golden retriever",
-		title: "",
-		date: "2023-12-21",
-		where: "",
-		text: "",
-		bg: ""
+		alt: "Newton the golden retriever sitting very close to the camera and looking intently, probably because he is hungry for dinner.",
+		title: "I haven't eaten in 3 days",
+		date: "2023-03-18",
+		where: "Seattle, WA",
+		text: "It's 3:59pm, in just 1 minute it will have been 3 days since Dad fed me last. I don't know if I can make it that long. Tell my Mom I love her.",
+		bg: "#6B7A63"
 	},
 	{
 		img: "lzmad0s6nl73k2jzewtv",
@@ -611,7 +611,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#473A3F"
 	},
 	{
 		img: "mctfkkux9mnt7ckmtkfd",
@@ -620,7 +620,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#3A6D44"
 	},
 	{
 		img: "mfswpyudlwutwrq8zfd3",
@@ -629,7 +629,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#4D291E"
 	},
 	{
 		img: "zuyqsaec5c686oy1xmsj",
@@ -638,7 +638,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#884624"
 	},
 	{
 		img: "mioru8odvwx5ye4xhimg",
@@ -647,7 +647,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#665641"
 	},
 	{
 		img: "mnovwfzutupp3apmvnpg",
@@ -728,7 +728,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#2F302D"
 	},
 	{
 		img: "nym2yo6twuigq9q7ybkz",
@@ -737,7 +737,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#704D32"
 	},
 	{
 		img: "ooirre6bqbezvay7ttfe",
@@ -746,7 +746,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#595345"
 	},
 	{
 		img: "qurrudxodxadmdamajaa",
@@ -755,7 +755,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#314366"
 	},
 	{
 		img: "ouiipf7y4mawwxxnb7xi",
@@ -764,7 +764,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#49362B"
 	},
 	{
 		img: "ox83dxkdcpckcj9kkauh",
@@ -773,7 +773,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#41251A"
 	},
 	{
 		img: "oxhinpxmfujblr6yxuhl",
@@ -782,7 +782,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#302E2A"
 	},
 	{
 		img: "p3thpx5kozyqw6idxopg",
@@ -791,7 +791,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#2D2D44"
 	},
 	{
 		img: "pgqmmthb99uvlcimhcje",
@@ -800,7 +800,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#3C5A55"
 	},
 	{
 		img: "pprfmezdezkrykrzexbe",
@@ -809,7 +809,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#2C3518"
 	},
 	{
 		img: "pupuih8t2ywtukr6at72",
@@ -818,7 +818,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#3C1F13"
 	},
 	{
 		img: "pvswut1n5n16rmhfcmjs",
@@ -827,7 +827,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#38332C"
 	},
 	{
 		img: "pvvqh12kk6mmkoo2r2tt",
@@ -836,7 +836,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#29385A"
 	},
 	{
 		img: "q3lkrvq1nc5b5y3ngbpn",
@@ -845,7 +845,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#262626"
 	},
 	{
 		img: "q3yvdmwcdtymx1w28kjg",
@@ -854,7 +854,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#753212"
 	},
 	{
 		img: "q66lyuyaqtennevlqt0k",
@@ -863,7 +863,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#3B2F26"
 	},
 	{
 		img: "qcam6dpbbwsd85amuqyw",
@@ -872,7 +872,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#3D2617"
 	},
 	{
 		img: "qctroyvnvimmcfeirmcr",
@@ -881,7 +881,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#735D75"
 	},
 	{
 		img: "qdnbqmg6rfbvojo9uqyk",
@@ -890,7 +890,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#474541"
 	},
 	{
 		img: "qgqtdqlkfguafw2bv0rc",
@@ -899,7 +899,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#3D201C"
 	},
 	{
 		img: "qnl3ww8xa5nyg8xlcxbi",
@@ -908,7 +908,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#552835"
 	},
 	{
 		img: "qpyl963zuscpmjzgqbay",
@@ -917,7 +917,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#24231E"
 	},
 	{
 		img: "qs0rsp3lyoiyio75wg4x",
@@ -926,7 +926,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#274A2B"
 	},
 	{
 		img: "qsftuanwuvr1hj8z0vck",
@@ -935,7 +935,7 @@ export const PHOTOS: Array<Photo> = [
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#A83E2F"
 	},
 	{
 		img: "qv2q5oskk32erarrged0",

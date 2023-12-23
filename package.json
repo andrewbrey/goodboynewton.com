@@ -14,7 +14,7 @@
 	},
 	"dependencies": {
 		"@sveltejs/enhanced-img": "0.1.7",
-		"date-fns": "3.0.5",
+		"date-fns": "3.0.6",
 		"svelte-cloudinary": "1.1.2"
 	},
 	"devDependencies": {
