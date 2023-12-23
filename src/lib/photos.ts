@@ -983,6 +983,15 @@ export const PHOTOS: Array<Photo> = [
 		bg: "#5E4A3C"
 	},
 	{
+		img: "b6bhkh2q1ldt9gjmlhrd",
+		alt: "Newton the golden retriever",
+		title: "Are You My Mombo?",
+		date: "2023-12-21",
+		where: "",
+		text: "",
+		bg: "#270507"
+	},
+	{
 		img: "t7olwc4qxrbf7xinqef6",
 		alt: "Newton the golden retriever",
 		title: "",
