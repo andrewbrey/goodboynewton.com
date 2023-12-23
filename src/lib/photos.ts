@@ -47,7 +47,7 @@ export const PHOTOS: Array<Photo> = [
 		bg: "#432725"
 	},
 	{
-		img: "haigrsgsv0k4zelekodp",
+		img: "pvsudrmbvzmwxelwpklk",
 		alt: "Newton the teenage golden retriever sitting on his bottom on top of a box that is too small to fully fit him. One of his legs hangs off the side and he seems ok with the fact that he may fall off.",
 		title: "Balance Master",
 		date: "2013-06-05",
@@ -598,7 +598,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "lwnvaplwimz5d1sf7yj1",
 		alt: "Newton the golden retriever sitting very close to the camera and looking intently, probably because he is hungry for dinner.",
-		title: "I haven't eaten in 3 days",
+		title: "I Haven't Eaten in 3 Days",
 		date: "2023-03-18",
 		where: "Seattle, WA",
 		text: "It's 3:59pm, in just 1 minute it will have been 3 days since Dad fed me last. I don't know if I can make it that long. Tell my Mom I love her.",
@@ -697,7 +697,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "ng19xkysjgvul7giyl1e",
 		alt: "Newton the golden retriever sitting on his bottom looking off to the side with his mouth half-open and making a very funny expression with his lip stuck to his teet. ",
-		title: "Will I smell like this forever?",
+		title: "Will I Smell Like This Forever?",
 		date: "2014-01-02",
 		where: "Fort Collins, CO",
 		text: "Mom, I'm not so sure I like baths because now I smell like oatmeal doggy shampoo and it's making me confused and hungry!",
@@ -724,7 +724,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "nsx0lhycjphzuwlqf6pg",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Whatcha Makin' in the Kitchen?",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -733,7 +733,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "nym2yo6twuigq9q7ybkz",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Just Woke Up",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -742,7 +742,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "ooirre6bqbezvay7ttfe",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Jackson Has Comfy Butt",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -751,7 +751,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "qurrudxodxadmdamajaa",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Sun & Swim!",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -760,7 +760,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "ouiipf7y4mawwxxnb7xi",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Is This Right?",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -769,7 +769,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "ox83dxkdcpckcj9kkauh",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "That Could Have Been Anybody",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -778,7 +778,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "oxhinpxmfujblr6yxuhl",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Sleepin' In My Circle",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -787,7 +787,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "p3thpx5kozyqw6idxopg",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Doin' A Sneaky",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -796,7 +796,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "pgqmmthb99uvlcimhcje",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Puzzle Done, I'm Exhausted",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -805,7 +805,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "pprfmezdezkrykrzexbe",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Do You Like My Branch?",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -814,7 +814,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "pupuih8t2ywtukr6at72",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Lost My Toy, Can You Help?",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -823,7 +823,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "pvswut1n5n16rmhfcmjs",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "It's Professor Newton to You Dad",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -832,7 +832,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "pvvqh12kk6mmkoo2r2tt",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Heeeeeh Good One Mom",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -841,7 +841,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "q3lkrvq1nc5b5y3ngbpn",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Walks Tire Me Out",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -850,7 +850,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "q3yvdmwcdtymx1w28kjg",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Excuuuse Me?",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -859,7 +859,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "q66lyuyaqtennevlqt0k",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "I Feld Asleep",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -868,7 +868,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "qcam6dpbbwsd85amuqyw",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "No Teef, No Problems",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -877,7 +877,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "qctroyvnvimmcfeirmcr",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "New Profile Pic",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -886,7 +886,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "qdnbqmg6rfbvojo9uqyk",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Pupsicles!",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -895,7 +895,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "qgqtdqlkfguafw2bv0rc",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Don't Squeesh Me Please!",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -904,7 +904,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "qnl3ww8xa5nyg8xlcxbi",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Heeeeeh Good One Dad",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -913,7 +913,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "qpyl963zuscpmjzgqbay",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Workin Hard Next To Dad",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -922,7 +922,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "qs0rsp3lyoiyio75wg4x",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "No Let's Go This Way!",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -931,7 +931,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "qsftuanwuvr1hj8z0vck",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Zen and Content",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -940,56 +940,47 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "qv2q5oskk32erarrged0",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Please Dad, May I Have Some More?",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#394A5E"
 	},
 	{
 		img: "r247rwrn4xkmzjkbmzhq",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Judge Newton, Food Court",
 		date: "2023-12-21",
-		where: "",
+		where: "Denver, CO",
 		text: "",
-		bg: ""
+		bg: "#3C2E24"
 	},
 	{
 		img: "r4y1tltxou9djjuj47md",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Family Snuggles!",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#4C2F2B"
 	},
 	{
 		img: "rylmskhwo09ufiafac1o",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Table Mountain Hikes!",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#5C493F"
 	},
 	{
 		img: "s8nmon4ruqtwcvwggzgn",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Ehm Thoo Thired To Pahnt",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
-	},
-	{
-		img: "sdpiecctr25onoyeib8m",
-		alt: "Newton the golden retriever",
-		title: "",
-		date: "2023-12-21",
-		where: "",
-		text: "",
-		bg: ""
+		bg: "#5E4A3C"
 	},
 	{
 		img: "t7olwc4qxrbf7xinqef6",
