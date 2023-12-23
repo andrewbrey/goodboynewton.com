@@ -7,6 +7,7 @@ export const load = (async ({ request }) => {
 	const url = new URL(request.url);
 	const urlDoy = url.searchParams.get("doy");
 	const calDoy = getDayOfYear(new Date());
+	const urlImg = url.searchParams.get("img");
 
 	const doy = urlDoy ? parseInt(urlDoy) : calDoy;
 	let idx = doy - 1;
@@ -14,7 +15,11 @@ export const load = (async ({ request }) => {
 		idx -= PHOTOS.length;
 	}
 
-	const photo = PHOTOS.at(idx) ?? PHOTOS.at(0);
+	let photo = PHOTOS.at(idx) ?? PHOTOS.at(0);
+	if (urlImg) {
+		idx = PHOTOS.findIndex((p) => p.img === urlImg);
+		photo = PHOTOS.at(idx);
+	}
 
 	invariant(typeof photo !== "undefined");
 

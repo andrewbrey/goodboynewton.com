@@ -16,16 +16,19 @@ function next(e: KeyboardEvent) {
 
 		switch (e.key) {
 			case "n": {
+				$page.url.searchParams.delete("img");
 				$page.url.searchParams.set("doy", `${next}`);
 				window.location.href = $page.url.href;
 				break;
 			}
 			case "p": {
+				$page.url.searchParams.delete("img");
 				$page.url.searchParams.set("doy", `${previous}`);
 				window.location.href = $page.url.href;
 				break;
 			}
 			case "t": {
+				$page.url.searchParams.delete("img");
 				$page.url.searchParams.delete("doy");
 				window.location.href = $page.url.href;
 				break;
@@ -53,6 +56,7 @@ function next(e: KeyboardEvent) {
 	class="grid min-h-dvh w-screen overflow-x-hidden xl:h-dvh xl:overflow-hidden"
 	data-caldoy={data.calDoy}
 	data-doyidx={data.idx}
+	data-img={data.img}
 	style="--accent:{data.bg};--brand-opacity: 0.2;"
 >
 	<header

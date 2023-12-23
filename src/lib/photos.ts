@@ -31,7 +31,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "ywqoynsei8rfmidde6wp",
 		alt: "Newton the golden retriever sitting very close to the camera with a concerned look on his face.",
-		title: "I Haven't Eaten In Days",
+		title: "I Haven't Eaten in Days",
 		date: "2019-10-03",
 		where: "Ballard, WA",
 		text: "Through years of experimenting, I've found that the best way to let Mom and Dad know that I haven't eaten in like 3 days is to get right in their face and look concerned.",
@@ -58,470 +58,470 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "krzphvomxalk9ymis3ww",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "This Is So Comfy!",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#482E17"
 	},
 	{
 		img: "aabcgr1z1xigo38uayqs",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "How Much Longer?",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#332E32"
 	},
 	{
 		img: "aalfmnod60jgutmku4ip",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Hurry Up Daaahhhd",
 		date: "2023-12-21",
-		where: "",
+		where: "Olympia, WA",
 		text: "",
-		bg: ""
+		bg: "#1C1D1A"
 	},
 	{
 		img: "b1ldnjdlm3l7ebvg6mbq",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Rain Zoomies in 3...2...",
 		date: "2023-12-21",
-		where: "",
+		where: "Ballard, WA",
 		text: "",
-		bg: ""
+		bg: "#332E22"
 	},
 	{
 		img: "bacohhll8zmz5m5ubyry",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Give Us Both Treats, But Me First",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#6B4639"
 	},
 	{
 		img: "bqedjjh1sjnmt7bxcvvh",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Good Gas Pumpin' Dad!",
 		date: "2023-12-21",
-		where: "",
+		where: "Ballard, WA",
 		text: "",
-		bg: ""
+		bg: "#2B343C"
 	},
 	{
 		img: "bsbm7agmmdjwfzkeepnm",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "I'm a Good Sharer",
 		date: "2023-12-21",
-		where: "",
+		where: "Englewood, CO",
 		text: "",
-		bg: ""
+		bg: "#54554E"
 	},
 	{
 		img: "bu05wed4xutcj0z5hk0h",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "When Is Play Time?",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#363029"
 	},
 	{
 		img: "bwrcgmms2fhzw8srfb6b",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Dinner Time?",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#50371F"
 	},
 	{
 		img: "c2fscw9cwmmps7hihjgw",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Helpin' Dad Work",
 		date: "2023-12-21",
-		where: "",
+		where: "Olympia, WA",
 		text: "",
-		bg: ""
+		bg: "#303B4D"
 	},
 	{
 		img: "ceogc8rvbm2ccwlhdo7m",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Elevator Vibes",
 		date: "2023-12-21",
-		where: "",
+		where: "Ballard, WA",
 		text: "",
-		bg: ""
+		bg: "#271E16"
 	},
 	{
 		img: "cgeoa5efm6umfpoqjtyg",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "It's Professor Newton to You Dad",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#11080B"
 	},
 	{
 		img: "chrddnmp6lflc9ycw8zf",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "I'm A Wizard Dahd!",
 		date: "2023-12-21",
 		where: "",
-		text: "",
-		bg: ""
+		text: "Accio kibbles amiright? heehhh... unless?",
+		bg: "#44452F"
 	},
 	{
 		img: "cmb3usezfpcmrhqwlugc",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "It's The Best One Yet!",
 		date: "2023-12-21",
-		where: "",
+		where: "Olympia, WA",
 		text: "",
-		bg: ""
+		bg: "#2F3E1E"
 	},
 	{
 		img: "f5fpcoopbykubatnkvnl",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Personal Private Yogurt",
 		date: "2023-12-21",
-		where: "",
+		where: "Ballard, WA",
 		text: "",
-		bg: ""
+		bg: "#493527"
 	},
 	{
 		img: "d0uissz1sg1brmxqygez",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Let's Have Snacks!",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#44403B"
 	},
 	{
 		img: "d6rc5zniyscjbpkvgydt",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Told You I Fit Mom",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#421B0F"
 	},
 	{
 		img: "dehkjtz1gndipwcgsd1v",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Look I'm A Bull, Heehhh",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#3C2216"
 	},
 	{
 		img: "df9orngzav0ogv2r7xhv",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Porch Swing Chillin'",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#3F3735"
 	},
 	{
 		img: "dfgpe1yaavxpwhqbkogn",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Let's Get Rollin'",
 		date: "2023-12-21",
-		where: "",
+		where: "Ballard, WA",
 		text: "",
-		bg: ""
+		bg: "#272928"
 	},
 	{
 		img: "dhc4odtgctbr68hm7ywr",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Sploooot",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#36201D"
 	},
 	{
 		img: "di4znyjftdkqvcwtorsc",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Are You Commin' In or What?",
 		date: "2023-12-21",
-		where: "",
+		where: "Denver, CO",
 		text: "",
-		bg: ""
+		bg: "#613016"
 	},
 	{
 		img: "dvc10rbewbwxhzrqvrvb",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Habby Crisbas Everyone!",
 		date: "2023-12-21",
-		where: "",
+		where: "Edmonds, WA",
 		text: "",
-		bg: ""
+		bg: "#403A2C"
 	},
 	{
 		img: "e3tguwt3jkwrohmr7ngo",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "My First Swim!",
 		date: "2023-12-21",
-		where: "",
+		where: "Monument, CO",
 		text: "",
-		bg: ""
+		bg: "#3C2F0D"
 	},
 	{
 		img: "ei0mr3zkuxlcaulickbt",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Still Splooootin'",
 		date: "2023-12-21",
-		where: "",
+		where: "Ballard, WA",
 		text: "",
-		bg: ""
+		bg: "#3C2E23"
 	},
 	{
 		img: "eigo37ylbmoegok0ycgj",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Tug Of Pizza!",
 		date: "2023-12-21",
-		where: "",
+		where: "Ballard, WA",
 		text: "",
-		bg: ""
+		bg: "#322820"
 	},
 	{
 		img: "eps4cxdxjtpzvzadftsk",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "World Cup Snuggle Party",
 		date: "2023-12-21",
-		where: "",
+		where: "Ballard, WA",
 		text: "",
-		bg: ""
+		bg: "#312019"
 	},
 	{
 		img: "fuyfqdnn1eygwggv1rtp",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "What's Over There?",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#233D12"
 	},
 	{
 		img: "g6urjgbd5rapmkr9oevz",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Tiny Stick! Tiny Stick!",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#2F3436"
 	},
 	{
 		img: "gir6u3h71oe9elltqgya",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "I Love It Here Dahd!",
 		date: "2023-12-21",
-		where: "",
+		where: "Englewood, CO",
 		text: "",
-		bg: ""
+		bg: "#212134"
 	},
 	{
 		img: "gjvmw2nhrdtutyg1clos",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Doin' A Sneaky",
 		date: "2023-12-21",
-		where: "",
+		where: "Fort Collins, CO",
 		text: "",
-		bg: ""
+		bg: "#25110A"
 	},
 	{
 		img: "gmym6ggmki4c2hsaa06l",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Waitin' for the Elevator",
 		date: "2023-12-21",
-		where: "",
+		where: "Ballard, WA",
 		text: "",
-		bg: ""
+		bg: "#5A2A2A"
 	},
 	{
 		img: "gqdv53yittuomx3xs3nw",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Can We Go Hiking?",
 		date: "2023-12-21",
-		where: "",
+		where: "Englewood, CO",
 		text: "",
-		bg: ""
+		bg: "#2B2C28"
 	},
 	{
 		img: "gynkhyt4qazu4tqt5wnb",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Wake Up Mohhhm!!",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#2B2C28"
 	},
 	{
 		img: "hih9mtheicvtqcvvuyil",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Maximum Comfort",
 		date: "2023-12-21",
-		where: "",
+		where: "Englewood, CO",
 		text: "",
-		bg: ""
+		bg: "#474034"
 	},
 	{
 		img: "hmro982sochtce5gfe1r",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Perfect Retriever",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#364331"
 	},
 	{
 		img: "i0yh9ybkqltpwfy8y42f",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Sibling Cuddles!",
 		date: "2023-12-21",
-		where: "",
+		where: "Loveland, CO",
 		text: "",
-		bg: ""
+		bg: "#343230"
 	},
 	{
 		img: "i97dozc0adnykciiamlr",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Cheezin' n Sleepin'",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#121010"
 	},
 	{
 		img: "idw1x1sjtbhgmghchmpg",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Ok, New Favorite!",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#364331"
 	},
 	{
 		img: "idw82fdhupmuxi7okhtt",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Still Figuring It Out",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#493D40"
 	},
 	{
 		img: "inp8f8hxiy2p6hbq94oa",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "TOOOOOFS",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#44231D"
 	},
 	{
 		img: "iosphl1dtbvsavpzy2pr",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Let's Explore In There!",
 		date: "2023-12-21",
-		where: "",
+		where: "Ballard, WA",
 		text: "",
-		bg: ""
+		bg: "#132100"
 	},
 	{
 		img: "iuztnfaigsins8g6b74j",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "What Dey Doin Over Der?",
 		date: "2023-12-21",
-		where: "",
+		where: "Littleton, CO",
 		text: "",
-		bg: ""
+		bg: "#364331"
 	},
 	{
 		img: "jmsopszoui6h6g8z6yfa",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Ok, Now We Mess It Up?",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#5E221B"
 	},
 	{
-		img: "jopg8ur2vqvkfxrgjeoe",
+		img: "dwu8yv9xfv4ephkzdf5v",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Golden Hikin'",
 		date: "2023-12-21",
-		where: "",
+		where: "Golden, CO",
 		text: "",
-		bg: ""
+		bg: "#5C493F"
 	},
 	{
 		img: "k0lq3ejtzuzs5dm3hlvv",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Puppy Tree!",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#132100"
 	},
 	{
 		img: "k3n2mmj3bjr9iiv949ff",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Please Take Me Serious",
 		date: "2023-12-21",
-		where: "",
+		where: "Denver, CO",
 		text: "",
-		bg: ""
+		bg: "#45060F"
 	},
 	{
 		img: "kdpquf1lfwekacsk9acu",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Yaaaaaaaaaaaa ahhhhheeeh",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#342E20"
 	},
 	{
 		img: "kl6q0vvjzvnpewniwoji",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Sittin' Normal Style",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#403021"
 	},
 	{
 		img: "krgljmwwtqlimmdmk3ux",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Waitin' For Mom",
 		date: "2023-12-21",
-		where: "",
+		where: "Ballard, WA",
 		text: "",
-		bg: ""
+		bg: "#30251E"
 	},
 	{
 		img: "ktwbhzymhioejotsxhbp",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Splash Buddies!",
 		date: "2023-12-21",
-		where: "",
+		where: "Fort Collins, CO",
 		text: "",
-		bg: ""
+		bg: "#27462C"
 	},
 	{
 		img: "kv3xj6xfx8xpwsrzzeix",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Learnin' to Backpack",
 		date: "2023-12-21",
-		where: "",
+		where: "Littleton, CO",
 		text: "",
-		bg: ""
+		bg: "#232C32"
 	},
 	{
 		img: "l2yxixtpgt83ozaccx65",
@@ -537,7 +537,7 @@ export const PHOTOS: Array<Photo> = [
 		alt: "Newton the golden retriever is laying very squished and curled up in an arm chair. One of his front paws is wrapped up in a sock becuase he has a small injury.",
 		title: "Deep Thoughts",
 		date: "2017-06-15",
-		where: "Denver, CO",
+		where: "Englewood, CO",
 		text: "Yep, that's me - I bet you're wondering how I got here. Well it all started when I wasn't looking where I was going while playing fetch...",
 		bg: "#5E4F47"
 	},
@@ -598,7 +598,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "lwnvaplwimz5d1sf7yj1",
 		alt: "Newton the golden retriever sitting very close to the camera and looking intently, probably because he is hungry for dinner.",
-		title: "I Haven't Eaten in 3 Days",
+		title: "I Haven't Eaten in Days",
 		date: "2023-03-18",
 		where: "Seattle, WA",
 		text: "It's 3:59pm, in just 1 minute it will have been 3 days since Dad fed me last. I don't know if I can make it that long. Tell my Mom I love her.",
@@ -607,34 +607,34 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "lzmad0s6nl73k2jzewtv",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Toy Nappin'",
 		date: "2023-12-21",
-		where: "",
+		where: "Ballard, WA",
 		text: "",
 		bg: "#473A3F"
 	},
 	{
 		img: "mctfkkux9mnt7ckmtkfd",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Can We Go Back In?",
 		date: "2023-12-21",
-		where: "",
+		where: "Monument, CO",
 		text: "",
 		bg: "#3A6D44"
 	},
 	{
 		img: "mfswpyudlwutwrq8zfd3",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Best Sleepy Buddies",
 		date: "2023-12-21",
-		where: "",
+		where: "Englewood, CO",
 		text: "",
 		bg: "#4D291E"
 	},
 	{
 		img: "zuyqsaec5c686oy1xmsj",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Are You Kidding Me?",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -643,9 +643,9 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "mioru8odvwx5ye4xhimg",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Whas Dat Dad?",
 		date: "2023-12-21",
-		where: "",
+		where: "Ballard, WA",
 		text: "",
 		bg: "#665641"
 	},
@@ -823,7 +823,7 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "pvswut1n5n16rmhfcmjs",
 		alt: "Newton the golden retriever",
-		title: "It's Professor Newton to You Dad",
+		title: "It's Doctor Newton to You Dad",
 		date: "2023-12-21",
 		where: "",
 		text: "",
@@ -951,7 +951,7 @@ export const PHOTOS: Array<Photo> = [
 		alt: "Newton the golden retriever",
 		title: "Judge Newton, Food Court",
 		date: "2023-12-21",
-		where: "Denver, CO",
+		where: "Englewood, CO",
 		text: "",
 		bg: "#3C2E24"
 	},
@@ -969,7 +969,7 @@ export const PHOTOS: Array<Photo> = [
 		alt: "Newton the golden retriever",
 		title: "Table Mountain Hikes!",
 		date: "2023-12-21",
-		where: "",
+		where: "Golden, CO",
 		text: "",
 		bg: "#5C493F"
 	},
@@ -994,362 +994,362 @@ export const PHOTOS: Array<Photo> = [
 	{
 		img: "t7olwc4qxrbf7xinqef6",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "I Just Found This!",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#303118"
 	},
 	{
 		img: "tavvzeufri62zxvu6vsb",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Murry Crimbus!",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#693F2F"
 	},
 	{
 		img: "tbuhwwv1tcxypd9e49mr",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Hiiii Mohhhm!",
 		date: "2023-12-21",
-		where: "",
+		where: "Ballard, WA",
 		text: "",
-		bg: ""
+		bg: "#764D3A"
 	},
 	{
 		img: "tcrnwtkjverv572z9ugc",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Beauty And Grace",
 		date: "2023-12-21",
-		where: "",
+		where: "Denver, CO",
 		text: "",
-		bg: ""
+		bg: "#74787C"
 	},
 	{
 		img: "tdjw9trkke8ciwmkcbjv",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Look What I Found!",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#59321E"
 	},
 	{
 		img: "tfgabpda0w6m4wwvdzo4",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Dream Big",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#0A270D"
 	},
 	{
 		img: "tnogygv1gu6ajtqehpv7",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "I Swear I Used To Fit",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#312F36"
 	},
 	{
 		img: "toiku6bhxjaligtgzdgr",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Is This My Yoga Mat?",
 		date: "2023-12-21",
-		where: "",
+		where: "Ballard, WA",
 		text: "",
-		bg: ""
+		bg: "#443326"
 	},
 	{
 		img: "u5f1s0geqtohycauj0oj",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Grrrrrrrrrr",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#4A2315"
 	},
 	{
 		img: "g1muixbdrfuhcaz9jjrp",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Can I Share Your Banana?",
 		date: "2023-12-21",
-		where: "",
+		where: "Ballard, WA",
 		text: "",
-		bg: ""
+		bg: "#3F3D32"
 	},
 	{
 		img: "udab6ged5b7vq7ezndun",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Story Time!",
 		date: "2023-12-21",
-		where: "",
+		where: "Englewood, CO",
 		text: "",
-		bg: ""
+		bg: "#4E565A"
 	},
 	{
 		img: "uphlz8ty1sd0xfcbahrc",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Speed Demon",
 		date: "2023-12-21",
-		where: "",
+		where: "Loveland, CO",
 		text: "",
-		bg: ""
+		bg: "#4F2D2B"
 	},
 	{
 		img: "utxwd0cjjzpzo6qpfnq0",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "It Fits Perfect!",
 		date: "2023-12-21",
-		where: "",
+		where: "Denver, CO",
 		text: "",
-		bg: ""
+		bg: "#561210"
 	},
 	{
 		img: "uv2qlhtly5hfl39q88ku",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Carwashes, Not a Fan",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#294766"
 	},
 	{
 		img: "v0cbmke9rupkn8ac0m9i",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Funny Little Whiskers",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#513326"
 	},
 	{
 		img: "van04eqhhu9rsuovtjiv",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Whaduyuwant?",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#47251B"
 	},
 	{
 		img: "vfnuewejo8knfkcqs49o",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Wanna Split A Burger?",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#493122"
 	},
 	{
 		img: "vp0wyb6brpzdtvws2xbc",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Swim Zoomies!",
 		date: "2023-12-21",
-		where: "",
+		where: "Monument, CO",
 		text: "",
-		bg: ""
+		bg: "#3C2F0D"
 	},
 	{
 		img: "vq7accomh6fcf5lxi72u",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "K Bye I Gueesss",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#121F34"
 	},
 	{
 		img: "wcfzzknhehm2lwsifob4",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Taxidermy Squirrel",
 		date: "2023-12-21",
-		where: "",
+		where: "Olympia, WA",
 		text: "",
-		bg: ""
+		bg: "#29391C"
 	},
 	{
 		img: "wervgcd1uqejzcimh85l",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Just Chillaxin",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#250B0F"
 	},
 	{
 		img: "wgxrhxpsxrovucptzfsn",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "So Fresh And So Clean",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#2F100D"
 	},
 	{
 		img: "wheud06kqvv1qwtdbwqf",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "That Bath Tired Me Out Mom",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#3D454C"
 	},
 	{
 		img: "ww9riikj7ghaglwfqen1",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Boat Watchin' With Dad",
 		date: "2023-12-21",
-		where: "",
+		where: "Ballard, WA",
 		text: "",
-		bg: ""
+		bg: "#2F371F"
 	},
 	{
 		img: "wzm0zk7bazerdbt3lyj5",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Messy Eater",
 		date: "2023-12-21",
-		where: "",
+		where: "Loveland, CO",
 		text: "",
-		bg: ""
+		bg: "#414040"
 	},
 	{
 		img: "x7uogjahyt9uejbf0aiz",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "This Helps Me Balance",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#27323D"
 	},
 	{
 		img: "xj7yycdkejiogyo42ffv",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Keepin' Warm",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#4B4033"
 	},
 	{
 		img: "xmriqhvad2jxpt6ggqzt",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Good Boy Pose",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#667C50"
 	},
 	{
 		img: "y5i3rc4cucf779mj74oz",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "It's An Armchair",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#4A3329"
 	},
 	{
 		img: "yaqqbzetnlgzdfdi2jct",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Quick Rest, Then More Fetch!",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#344E1F"
 	},
 	{
 		img: "yb3kwcjvrir474cwzktr",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "I Did A Whoopsy",
 		date: "2023-12-21",
 		where: "",
-		text: "",
-		bg: ""
+		text: "Yep, that's me - I bet you're wondering how I got here. Well it all started when ran too hard on a hike...",
+		bg: "#421B0D"
 	},
 	{
 		img: "yjl3g18oys8na80m2mgg",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "I Coulda' Been A Contender",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#2A3B47"
 	},
 	{
 		img: "ylmuxmyz8szcmsgkq1ou",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "What The Heck Is That Thing?",
 		date: "2023-12-21",
-		where: "",
-		text: "",
-		bg: ""
+		where: "Olympia, WA",
+		text: "I met a llama today. I'm deeply skeptical.",
+		bg: "#434C36"
 	},
 	{
 		img: "yookin0waseqo5rk3vbq",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Can I Bring This In?",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#503139"
 	},
 	{
 		img: "zbcp82kuehbh4apshrc4",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "That's Too Many Stairs",
 		date: "2023-12-21",
-		where: "",
+		where: "Fort Collins, CO",
 		text: "",
-		bg: ""
+		bg: "#332E32"
 	},
 	{
 		img: "zkuuxfn0xumteyfghhrp",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Perfect Nap Pillow",
 		date: "2023-12-21",
-		where: "",
+		where: "Ballard, WA",
 		text: "",
-		bg: ""
+		bg: "#2E2017"
 	},
 	{
 		img: "zlzgd9cpkayf1moqsn4m",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "I Haven't Eaten in Days",
 		date: "2023-12-21",
 		where: "",
-		text: "",
-		bg: ""
+		text: "Please...get up...I need you to feed me...I'm so weak...I haven't eaten in 4 days!",
+		bg: "#382E24"
 	},
 	{
 		img: "zo9gmxvuddplqm4tzfjy",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Betchu I can Fetch That",
 		date: "2023-12-21",
-		where: "",
+		where: "Ballard, WA",
 		text: "",
-		bg: ""
+		bg: "#1F2732"
 	},
 
 	{
 		img: "zov5mopmlzmpqnqfganv",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "What Are We Lookin' At?",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#3E4343"
 	},
 	{
 		img: "qgbg4g06hfbxwdvifpy7",
 		alt: "Newton the golden retriever",
-		title: "",
+		title: "Oh Geeez Daaahd",
 		date: "2023-12-21",
 		where: "",
 		text: "",
-		bg: ""
+		bg: "#482E17"
 	}
 ];
