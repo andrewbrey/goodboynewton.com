@@ -9,4 +9,3 @@ Newton is a very good boy.
 - [ ] Finish adding image metadata
 - [ ] Add `alt` text to all images
 - [ ] Double check there's no blank fields
-- [ ] Double check there's no default dates
