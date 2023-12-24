@@ -27,7 +27,9 @@ export const load = (async ({ request }) => {
 	const parsedDate = parseISO(photo.date);
 	const prettyDate = format(parsedDate, "EEEE, LLLL do, yyyy");
 	const isoDate = formatISO(parsedDate);
-	const newtonAge = `${formatDistanceStrict(parsedDate, newtonBirthday)} old`;
+	const newtonAge = `${formatDistanceStrict(newtonBirthday, parsedDate, {
+		roundingMethod: "floor"
+	})} old`;
 
 	return {
 		...photo,

@@ -6,15 +6,15 @@
  *
  * This depends on browser client APIs, so don't import this
  * file in the vite dep graph :shrug:
+ *
+ * Minified with https://www.digitalocean.com/community/tools/minify
  */
 const now = Date.now();
 const six_hours = 21600000;
 localStorage.setItem("fresh", `${now}`);
 setTimeout(() => location.reload(), six_hours);
 document.addEventListener("visibilitychange", () => {
-	if (!document.hidden) {
-		const fresh = localStorage.getItem("fresh");
-		const age = Date.now() - parseInt(fresh || "0");
-		if (age > six_hours) location.reload();
-	}
+	const fresh = localStorage.getItem("fresh");
+	const age = Date.now() - parseInt(fresh || "0");
+	if (age > six_hours) location.reload();
 });

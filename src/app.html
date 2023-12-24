@@ -21,7 +21,7 @@
 		<div style="display: contents">%sveltekit.body%</div>
 		<!-- prettier-ignore -->
 		<script type="module">
-			const e=Date.now(),t=216e5;localStorage.setItem("fresh",`${e}`),setTimeout((()=>location.reload()),t),document.addEventListener("visibilitychange",(()=>{if(!document.hidden){const e=localStorage.getItem("fresh");Date.now()-parseInt(e||"0")>t&&location.reload()}}));
+			const e=Date.now(),t=216e5;localStorage.setItem("fresh",`${e}`),setTimeout((()=>location.reload()),t),document.addEventListener("visibilitychange",(()=>{const e=localStorage.getItem("fresh");Date.now()-parseInt(e||"0")>t&&location.reload()}));
 		</script>
 	</body>
 </html>

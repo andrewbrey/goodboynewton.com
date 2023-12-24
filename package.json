@@ -10,7 +10,7 @@
 		"dev": "TZ=UTC vite dev --host 0.0.0.0",
 		"format": "prettier --write .",
 		"lint": "prettier --check . && eslint .",
-		"preview": "vite preview"
+		"preview": "TZ=UTC vite preview --host 0.0.0.0"
 	},
 	"dependencies": {
 		"@sveltejs/enhanced-img": "0.1.7",

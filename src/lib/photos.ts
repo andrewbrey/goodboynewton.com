@@ -59,9 +59,9 @@ export const PHOTOS: Array<Photo> = [
 		img: "krzphvomxalk9ymis3ww",
 		alt: "Newton the golden retriever",
 		title: "This Is So Comfy!",
-		date: "2023-12-21",
-		where: "",
-		text: "",
+		date: "2022-07-08",
+		where: "The Mountains of WA",
+		text: "Mom, when we get home, can you get me my very own cloud blanket so I am always so comfy?",
 		bg: "#482E17"
 	},
 	{
@@ -547,7 +547,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Romp Ready!",
 		date: "2017-07-15",
 		where: "The Mountains of CO",
-		text: "Mom and Dad told me that I have to wear my boots and pack if we're going to hike for a long time. I love my all grey gear!",
+		text: "Mom and Dad told me that I have to wear my boots and pack if we're going to hike for a long time. I love my all-grey gear!",
 		bg: "#33613D"
 	},
 	{
@@ -608,45 +608,45 @@ export const PHOTOS: Array<Photo> = [
 		img: "lzmad0s6nl73k2jzewtv",
 		alt: "Newton the golden retriever",
 		title: "Toy Nappin'",
-		date: "2023-12-21",
+		date: "2023-08-16",
 		where: "Ballard, WA",
-		text: "",
+		text: "If you pile up 3 different toys under your chin, you're gonna have the best snoozicle of your life!",
 		bg: "#473A3F"
 	},
 	{
 		img: "mctfkkux9mnt7ckmtkfd",
 		alt: "Newton the golden retriever",
 		title: "Can We Go Back In?",
-		date: "2023-12-21",
+		date: "2013-07-13",
 		where: "Monument, CO",
-		text: "",
+		text: "Dad I can't explain it, but I think I want to go back in that water...forever?",
 		bg: "#3A6D44"
 	},
 	{
 		img: "mfswpyudlwutwrq8zfd3",
 		alt: "Newton the golden retriever",
 		title: "Best Sleepy Buddies",
-		date: "2023-12-21",
+		date: "2016-01-08",
 		where: "Englewood, CO",
-		text: "",
+		text: "Hey Jackson, when we're done napping, do you want to go back outside and play fetch some more?",
 		bg: "#4D291E"
 	},
 	{
 		img: "zuyqsaec5c686oy1xmsj",
 		alt: "Newton the golden retriever",
 		title: "Are You Kidding Me?",
-		date: "2023-12-21",
-		where: "",
-		text: "",
+		date: "2022-05-03",
+		where: "Ballard, WA",
+		text: "I just got settled here, and you're tellin' me you need me to come and snuggle you closer?? Ok!",
 		bg: "#884624"
 	},
 	{
 		img: "mioru8odvwx5ye4xhimg",
 		alt: "Newton the golden retriever",
 		title: "Whas Dat Dad?",
-		date: "2023-12-21",
+		date: "2020-09-08",
 		where: "Ballard, WA",
-		text: "",
+		text: "I see you snacking on something, what is it? Is it to share? You wouldn't not share with me would you??",
 		bg: "#665641"
 	},
 	{
@@ -725,24 +725,24 @@ export const PHOTOS: Array<Photo> = [
 		img: "nsx0lhycjphzuwlqf6pg",
 		alt: "Newton the golden retriever",
 		title: "Whatcha Makin' in the Kitchen?",
-		date: "2023-12-21",
-		where: "",
-		text: "",
+		date: "2023-07-14",
+		where: "Ballard, WA",
+		text: "I don't want to get up, but if you make something good can I have some of it? Also if it's not good, can I have some of it?",
 		bg: "#2F302D"
 	},
 	{
 		img: "nym2yo6twuigq9q7ybkz",
 		alt: "Newton the golden retriever",
 		title: "Just Woke Up",
-		date: "2023-12-21",
-		where: "",
-		text: "",
+		date: "2018-07-09",
+		where: "Englewood, CO",
+		text: `Now I know what you're thinking "Newton you look crusty and sleepy" and to that I say, lets see YOU spend all day at daycare and look any better!`,
 		bg: "#704D32"
 	},
 	{
 		img: "ooirre6bqbezvay7ttfe",
 		alt: "Newton the golden retriever",
-		title: "Jackson Has Comfy Butt",
+		title: "Jackson Has a Comfy Butt",
 		date: "2023-12-21",
 		where: "",
 		text: "",
