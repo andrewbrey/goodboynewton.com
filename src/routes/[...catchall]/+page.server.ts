@@ -4,6 +4,10 @@ import { format, formatDistanceStrict, formatISO, getDayOfYear, parseISO } from 
 import type { PageServerLoad } from "./$types";
 
 export const load = (async ({ request }) => {
+	// Everyone lives in the Pacific Northwest :)
+	// Note, setting this here because Vercel doesn't let you set it as a global env var :shrug:
+	process.env.TZ = "America/Los_Angeles";
+
 	const url = new URL(request.url);
 	const urlDoy = url.searchParams.get("doy");
 	const calDoy = getDayOfYear(new Date());
