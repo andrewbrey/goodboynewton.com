@@ -85,7 +85,6 @@ function next(e: KeyboardEvent) {
 				layout="fullWidth"
 				height="auto"
 				priority={true}
-				gravity={data.imgGravity}
 				format="webp"
 				decoding="sync"
 				loading="eager"

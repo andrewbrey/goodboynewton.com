@@ -1,6 +1,17 @@
 export type Photo = {
 	img: string;
-	imgGravity?: string;
+	// TODO: this only works with a fixed height & width, and requires a crop value. Maybe this can't really be brought back with the current site layout?
+	// imgGravity?:
+	// 	| "north_east"
+	// 	| "north"
+	// 	| "north_west"
+	// 	| "west"
+	// 	| "south_west"
+	// 	| "south"
+	// 	| "south_east"
+	// 	| "east"
+	// 	| "center"
+	// 	| "auto";
 	alt: string;
 	title: string;
 	date: string;
