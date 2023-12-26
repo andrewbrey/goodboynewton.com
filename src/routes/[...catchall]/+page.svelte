@@ -82,8 +82,8 @@ function next(e: KeyboardEvent) {
 			<CldImage
 				src={data.img}
 				alt={data.alt}
-				width={10000}
-				height={10000}
+				layout="fullWidth"
+				height="auto"
 				priority={true}
 				gravity={data.imgGravity}
 				format="webp"
