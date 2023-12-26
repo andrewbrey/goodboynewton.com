@@ -86,6 +86,7 @@ function next(e: KeyboardEvent) {
 				height={10000}
 				priority={true}
 				gravity={data.imgGravity}
+				format="webp"
 				decoding="sync"
 				loading="eager"
 				fetchpriority="high"
