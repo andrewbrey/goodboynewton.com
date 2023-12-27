@@ -900,7 +900,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Pupsicles!",
 		date: "2019-07-13",
 		where: "Ballard, WA",
-		text: "",
+		text: "Going downtown to the farmers market with Mom and Dad is the best! Sometimes they even give me frozen punkin if it's hot!",
 		bg: "#474541"
 	},
 	{
@@ -909,7 +909,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Don't Squeesh Me Please!",
 		date: "2013-11-08",
 		where: "Fort Collins, CO",
-		text: "",
+		text: "I'm just a little tiny baby, but I got your chair and now you can't go anywhere without me Mom!",
 		bg: "#3D201C"
 	},
 	{
@@ -918,7 +918,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Heeeeeh Good One Dad",
 		date: "2014-04-08",
 		where: "Denver, CO",
-		text: "",
+		text: "Dad tells the best jokes and takes me to the most fun places in the car!",
 		bg: "#552835"
 	},
 	{
@@ -927,7 +927,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Workin Hard Next To Dad",
 		date: "2023-01-17",
 		where: "Olympia, WA",
-		text: "",
+		text: "It's not easy making sure Dahd stays on task, so I have to set up my home office right next to his to keep an eye on him!",
 		bg: "#24231E"
 	},
 	{
@@ -936,7 +936,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "No Let's Go This Way!",
 		date: "2013-08-17",
 		where: "Fort Collins, CO",
-		text: "",
+		text: "Moohm it is so smart that that you attached a rope toy directly to me so that we can play every time we stop on our walk!",
 		bg: "#274A2B"
 	},
 	{
@@ -945,7 +945,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Zen and Content",
 		date: "2023-10-11",
 		where: "Ballard, WA",
-		text: "",
+		text: "To truly experience inner peace, all you need to do is find the perfect stick and get plenty of sun!",
 		bg: "#A83E2F"
 	},
 	{
@@ -954,7 +954,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Please Dad, May I Have Some More?",
 		date: "2014-04-14",
 		where: "Denver, CO",
-		text: "",
+		text: "Heyyy Dahhhhd I was thinking that maaaaybe I could have a whole one of dose bowls instead of just the sauce left over from yours???",
 		bg: "#394A5E"
 	},
 	{
@@ -963,7 +963,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Judge Newton, Food Court",
 		date: "2017-07-13",
 		where: "Englewood, CO",
-		text: "",
+		text: `You told me "all done", but the fact that you're snacking right now proves that THAT was a lie!`,
 		bg: "#3C2E24"
 	},
 	{
@@ -972,7 +972,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Family Snuggles!",
 		date: "2014-01-04",
 		where: "Littleton, CO",
-		text: "",
+		text: "At the end of a long day, Mom and Dad usually need me to snuggle up to them to give them comfort and calm!",
 		bg: "#4C2F2B"
 	},
 	{
@@ -981,7 +981,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Table Mountain Hikes!",
 		date: "2013-08-10",
 		where: "Golden, CO",
-		text: "",
+		text: "I love when Mom and Dad take me to their favorite hiking spot, it's so fun to run up the mountain!",
 		bg: "#5C493F"
 	},
 	{
@@ -990,7 +990,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Ehm Thoo Thired To Pahnt",
 		date: "2016-01-08",
 		where: "Denver, CO",
-		text: "",
+		text: "It's... so... cold... and... wet... outside... I... played... fetch... forever... now... sleepy!",
 		bg: "#5E4A3C"
 	},
 	{
@@ -999,7 +999,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Are You My Mombo?",
 		date: "2013-03-16",
 		where: "Loveland, CO",
-		text: "",
+		text: "You smell good and you give me all the pets and your hugs are so nice and I love you and I can't wait to live with you and I love you!",
 		bg: "#270507"
 	},
 	{
@@ -1008,7 +1008,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "I Just Found This!",
 		date: "2013-07-12",
 		where: "Denver, CO",
-		text: "",
+		text: "Doo de doo dee do dee, doo doo en dooo dooooo! Ohhh yea, everyone is gonna love this one!!",
 		bg: "#303118"
 	},
 	{
@@ -1017,7 +1017,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Murry Crimbus!",
 		date: "2015-12-04",
 		where: "Englewood, CO",
-		text: "",
+		text: "Do you like my lights Dahd? I found them right here and they're really bright and don't taste good, but I think they're cute!",
 		bg: "#693F2F"
 	},
 	{
@@ -1026,7 +1026,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Hiiii Mohhhm!",
 		date: "2023-12-11",
 		where: "Ballard, WA",
-		text: "",
+		text: `Are you working working or are you "working"? Cause I could use some cuddles and so I thought I should check what you're doin'!`,
 		bg: "#764D3A"
 	},
 	{
@@ -1035,7 +1035,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Beauty And Grace",
 		date: "2014-01-26",
 		where: "Denver, CO",
-		text: "",
+		text: "I'm soooo sneaky, nobody can even tell that I'm takin' a nap because I'm not laying down... Newton you are one sneak sneakerson!",
 		bg: "#74787C"
 	},
 	{
@@ -1044,7 +1044,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Look What I Found!",
 		date: "2023-09-29",
 		where: "Ballard, WA",
-		text: "",
+		text: "I found dis to give to Mohm for her birthday! She is always so excited for the sticks I find, so I think it's the perfct gift!",
 		bg: "#59321E"
 	},
 	{
@@ -1053,7 +1053,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Dream Big",
 		date: "2013-08-17",
 		where: "Fort Collins, CO",
-		text: "",
+		text: "A lot of people don't know this, but if you try hard, I'm pretty sure you can pull the whole tree out to carry around!",
 		bg: "#0A270D"
 	},
 	{
@@ -1062,7 +1062,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "I Swear I Used To Fit",
 		date: "2014-01-18",
 		where: "Littleton, CO",
-		text: "",
+		text: "Mohhhhm I think Dahd made my chair smaller! You're a bad dog Dahd!",
 		bg: "#312F36"
 	},
 	{
@@ -1071,7 +1071,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Is This My Yoga Mat?",
 		date: "2023-08-30",
 		where: "Ballard, WA",
-		text: "",
+		text: "You layed down on the yoga mat Dad, that means you're ready for play time right?! I'll go get my toys!",
 		bg: "#443326"
 	},
 	{
@@ -1080,7 +1080,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Grrrrrrrrrr",
 		date: "2013-08-18",
 		where: "Fort Collins, CO",
-		text: "",
+		text: "I WILL NEVER LET GO OF THIS TOY DAD, YOU MIGHT AS WELL GIVE UP NOWWWW BECAUSE I WILL NEVER GIVE IN!!!",
 		bg: "#4A2315"
 	},
 	{
@@ -1089,7 +1089,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Can I Share Your Banana?",
 		date: "2022-03-19",
 		where: "Ballard, WA",
-		text: "",
+		text: "You seeeemed like you wanted to share it, and I figured well if you're going to share it, it should probably be with me!",
 		bg: "#3F3D32"
 	},
 	{
@@ -1098,7 +1098,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Story Time!",
 		date: "2016-06-08",
 		where: "Englewood, CO",
-		text: "",
+		text: "I love when my cousins come to visit me at my house and they read me spooky bedtime stories! I love my cousins!",
 		bg: "#4E565A"
 	},
 	{
@@ -1107,7 +1107,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Speed Demon",
 		date: "2013-03-16",
 		where: "Loveland, CO",
-		text: "",
+		text: "I am speeeeeed! Zooooooooooooom!",
 		bg: "#4F2D2B"
 	},
 	{
@@ -1116,7 +1116,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "It Fits Perfect!",
 		date: "2015-10-31",
 		where: "Denver, CO",
-		text: "",
+		text: `Ohhhh yea, the neighbors are going to be so startled by my Halloween costume because they'll be all like "how did a lobster get in here"....hehh!`,
 		bg: "#561210"
 	},
 	{
@@ -1125,7 +1125,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Carwashes, Not a Fan",
 		date: "2014-01-31",
 		where: "Denver, CO",
-		text: "",
+		text: "I would like to formally register my complaint that carwashes are jerks and I do not like them and why did you bring me here???",
 		bg: "#294766"
 	},
 	{
