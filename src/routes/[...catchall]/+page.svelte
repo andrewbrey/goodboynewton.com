@@ -53,17 +53,17 @@ function next(e: KeyboardEvent) {
 <svelte:window on:keydown={next} />
 
 <div
-	class="grid min-h-dvh w-screen overflow-x-hidden xl:h-dvh xl:overflow-hidden"
+	class="flex min-h-dvh w-screen flex-col overflow-x-hidden md:grid xl:h-dvh xl:overflow-hidden"
 	data-caldoy={data.calDoy}
 	data-doyidx={data.idx}
 	data-img={data.img}
 	style="--accent:{data.bg};--brand-opacity: 0.2;"
 >
 	<header
-		class="absolute right-2 top-6 z-10 md:right-3 md:top-8 lg:right-4 lg:top-10 xl:left-1 xl:right-auto xl:top-10 3xl:left-4 3xl:top-[4.5rem]"
+		class="md:absolute md:right-2 md:right-3 md:top-6 md:top-8 md:z-10 lg:right-4 lg:top-10 xl:left-1 xl:right-auto xl:top-10 3xl:left-4 3xl:top-[4.5rem]"
 	>
 		<div
-			class="rotate-12 rounded-[3vw] bg-[color-mix(in_srgb,var(--accent),transparent_50%)] px-4 py-3 shadow shadow-accent backdrop-blur-sm md:px-6 md:py-5 xl:-rotate-12 xl:px-10 xl:py-4 3xl:px-12 3xl:py-6"
+			class="bg-accent px-4 py-3 md:rotate-12 md:rounded-[3vw] md:bg-[color-mix(in_srgb,var(--accent),transparent_50%)] md:px-6 md:py-5 md:shadow md:shadow-accent md:backdrop-blur-sm xl:-rotate-12 xl:px-10 xl:py-4 3xl:px-12 3xl:py-6"
 		>
 			<h1
 				class="text-center font-display text-lg leading-none text-white md:text-3xl md:leading-none lg:text-4xl xl:text-4xl 3xl:text-6xl"
@@ -77,7 +77,7 @@ function next(e: KeyboardEvent) {
 			</p>
 		</div>
 	</header>
-	<main class="flex h-full flex-col xl:grid xl:grid-cols-2">
+	<main class="flex h-full flex-grow flex-col xl:grid xl:grid-cols-2">
 		<div class="flex-grow-0">
 			<CldImage
 				src={data.img}
