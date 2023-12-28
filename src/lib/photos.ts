@@ -1134,7 +1134,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Funny Little Whiskers",
 		date: "2015-09-12",
 		where: "Denver, CO",
-		text: "",
+		text: "Some people think I look like a otter baby, what do you think?",
 		bg: "#513326"
 	},
 	{
@@ -1143,7 +1143,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Whaduyuwant?",
 		date: "2013-12-01",
 		where: "Fort Collins, CO",
-		text: "",
+		text: "Just nappin', you know how I be Mahma... did you need me to help you with some food cleanup?",
 		bg: "#47251B"
 	},
 	{
@@ -1152,7 +1152,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Wanna Split A Burger?",
 		date: "2013-09-08",
 		where: "Fort Collins, CO",
-		text: "",
+		text: "Look at me look at me I went to get us burgers for dinner hehhh, just kidding wanna play tho?",
 		bg: "#493122"
 	},
 	{
@@ -1161,7 +1161,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Swim Zoomies!",
 		date: "2013-07-13",
 		where: "Monument, CO",
-		text: "",
+		text: "Did you see me! I was all like swim swim swim swim swim swim swim, that was so fun let's run around and go back in!",
 		bg: "#3C2F0D"
 	},
 	{
@@ -1170,7 +1170,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "K Bye I Gueesss",
 		date: "2014-01-20",
 		where: "Littleton, CO",
-		text: "",
+		text: "Dear diary, today both of my parents left me forever. They barely even said goodbye, and they didn't leave me any kibbles. I don't know if I'll make it.",
 		bg: "#121F34"
 	},
 	{
@@ -1179,7 +1179,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Taxidermy Squirrel",
 		date: "2023-04-12",
 		where: "Olympia, WA",
-		text: "",
+		text: "This year I hunted a squirrel so good at the pet store that they gave him to me as a frisbee!",
 		bg: "#29391C"
 	},
 	{
@@ -1188,7 +1188,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Just Chillaxin",
 		date: "2013-08-10",
 		where: "Fort Collins, CO",
-		text: "",
+		text: "Hey Moohhhm what should we do today? Maaaybe we should just cuddle up and share a pocorn snack!",
 		bg: "#250B0F"
 	},
 	{
@@ -1197,7 +1197,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "So Fresh And So Clean",
 		date: "2014-08-02",
 		where: "Littleton, CO",
-		text: "",
+		text: "Looking good and smelling good, you know how I be! Do I get good boy treats now?!",
 		bg: "#2F100D"
 	},
 	{
@@ -1206,7 +1206,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "That Bath Tired Me Out Mom",
 		date: "2013-04-02",
 		where: "Fort Collins, CO",
-		text: "",
+		text: "I'm gonna just curl up into a tiny little ball and rest, it takes a lot of energy to dry off after a bath!",
 		bg: "#3D454C"
 	},
 	{
@@ -1215,7 +1215,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Boat Watchin' With Dad",
 		date: "2019-03-24",
 		where: "Ballard, WA",
-		text: "",
+		text: "And over my shoulder you can see some boats in the water, where I would like to be!",
 		bg: "#2F371F"
 	},
 	{
@@ -1224,7 +1224,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Messy Eater",
 		date: "2013-03-16",
 		where: "Loveland, CO",
-		text: "",
+		text: "Uhoh, I was eating but then I feld asleep, and when I woke up I had dis bottle on my foot. Oh well!",
 		bg: "#414040"
 	},
 	{
@@ -1233,7 +1233,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "This Helps Me Balance",
 		date: "2023-02-23",
 		where: "Olympia, WA",
-		text: "",
+		text: "The key to not slipping on the sidewalk is to have a nice long stick! Then if someone tries to pass you, you can whack their knees!",
 		bg: "#27323D"
 	},
 	{
@@ -1242,7 +1242,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Keepin' Warm",
 		date: "2018-12-23",
 		where: "Ballard, WA",
-		text: "",
+		text: "It sure is cold out, I'm glad Mom lets me borrow her hat so I can snooze in warmth!",
 		bg: "#4B4033"
 	},
 	{
@@ -1251,7 +1251,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Good Boy Pose",
 		date: "2022-05-06",
 		where: "Ballard, WA",
-		text: "",
+		text: "Daaaaahd, it's too early for pictures, I'm still sleepy!",
 		bg: "#667C50"
 	},
 	{
@@ -1260,7 +1260,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "It's An Armchair",
 		date: "2013-08-18",
 		where: "Fort Collins, CO",
-		text: "",
+		text: "Day 23 of experimenting to find the most comfy spots in the house. I'm trying out the arm of the couch today. Early results are promising!",
 		bg: "#4A3329"
 	},
 	{

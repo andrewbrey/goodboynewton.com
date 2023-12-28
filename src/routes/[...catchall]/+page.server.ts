@@ -14,10 +14,7 @@ export const load = (async ({ request }) => {
 	const urlImg = url.searchParams.get("img");
 
 	const doy = urlDoy ? parseInt(urlDoy) : calDoy;
-	let idx = doy - 1;
-	while (idx >= PHOTOS.length) {
-		idx -= PHOTOS.length;
-	}
+	let idx = (doy - 1) % PHOTOS.length;
 
 	let photo = PHOTOS.at(idx) ?? PHOTOS.at(0);
 	if (urlImg) {
