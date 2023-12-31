@@ -1269,7 +1269,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Quick Rest, Then More Fetch!",
 		date: "2017-08-15",
 		where: "Englewood, CO",
-		text: "",
+		text: "No Dahd, I'm not tired, I'm just giving you a chance to catch YOUR breath!",
 		bg: "#344E1F"
 	},
 	{
@@ -1287,7 +1287,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "I Coulda' Been A Contender",
 		date: "2018-08-05",
 		where: "Fort Collins, CO",
-		text: "",
+		text: "Heh, just kidding, I'm a lover not a fighter ...except with cats ...and dogs that look at me funny ...and birds ...and racoons ...and squirrels!",
 		bg: "#2A3B47"
 	},
 	{
@@ -1305,7 +1305,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Can I Bring This In?",
 		date: "2013-10-15",
 		where: "Fort Collins, CO",
-		text: "",
+		text: "Technically, I'm allowed, I asked Mom and she said I could. You don't need to check with her!",
 		bg: "#503139"
 	},
 	{
@@ -1314,7 +1314,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "That's Too Many Stairs",
 		date: "2013-03-31",
 		where: "Fort Collins, CO",
-		text: "",
+		text: "Heeyy Mooohm, I'm too small to walk up all these stairs! Will you carry me?",
 		bg: "#332E32"
 	},
 	{
@@ -1323,7 +1323,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Perfect Nap Pillow",
 		date: "2019-07-28",
 		where: "Ballard, WA",
-		text: "",
+		text: "When you find the perfect pillow to rest your chin on, naps get even better!",
 		bg: "#2E2017"
 	},
 	{
@@ -1332,7 +1332,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "I Haven't Eaten in Days",
 		date: "2023-01-06",
 		where: "Olympia, WA",
-		text: "Please...get up...I need you to feed me...I'm so weak...I haven't eaten in 4 days!",
+		text: "Please ...get up ...I need you to feed me ...I'm so weak ...I haven't eaten in 4 days!",
 		bg: "#382E24"
 	},
 	{
@@ -1341,7 +1341,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Betchu I can Fetch That",
 		date: "2022-07-28",
 		where: "Ballard, WA",
-		text: "",
+		text: "Can I try Mohhm!?? I promise I won't get distracted by ducks flying by when I'm halfway there!",
 		bg: "#1F2732"
 	},
 
@@ -1351,7 +1351,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "What Are We Lookin' At?",
 		date: "2013-04-06",
 		where: "Fort Collins, CO",
-		text: "",
+		text: "I'm learning so many super smart things from my housemates, like how to sit and watch the back yard really good!",
 		bg: "#3E4343"
 	},
 	{
@@ -1360,7 +1360,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Oh Geeez Daaahd",
 		date: "2022-02-12",
 		where: "Ballard, WA",
-		text: "",
+		text: "I'm kinda worried that we're going to miss dinner, I've been thinking we should have kibbles early just in case?",
 		bg: "#482E17"
 	}
 ];
