@@ -81,7 +81,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "How Much Longer?",
 		date: "2014-01-31",
 		where: "Denver, CO",
-		text: "",
+		text: "Look Dad, I just spent the whole day at daycare and I'm pretty sleepy. Can you carry me inside maybe?",
 		bg: "#332E32"
 	},
 	{
@@ -90,7 +90,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Hurry Up Daaahhhd",
 		date: "2023-02-02",
 		where: "Olympia, WA",
-		text: "",
+		text: "When Mom gets home she's going to be so excited to see my new super awesome stick!",
 		bg: "#1C1D1A"
 	},
 	{
@@ -99,7 +99,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Rain Zoomies in 3...2...",
 		date: "2023-11-30",
 		where: "Ballard, WA",
-		text: "",
+		text: "Ok, ok hear me out - what if instead of calmly drying off with a towel, instead we ran around like crazy and did a bunch of spins!?",
 		bg: "#332E22"
 	},
 	{
@@ -108,7 +108,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Give Us Both Treats, But Me First",
 		date: "2016-01-09",
 		where: "Englewood, CO",
-		text: "",
+		text: "Hello sir, would you like to donate to our good boy treato fund? We accept all donations, like anything at all ...please!",
 		bg: "#6B4639"
 	},
 	{
@@ -117,7 +117,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Good Gas Pumpin' Dad!",
 		date: "2021-09-21",
 		where: "Ballard, WA",
-		text: "",
+		text: "Oh hey Daaahhhhd! Thanks for taking me with you to the gas station, I love going places with you!",
 		bg: "#2B343C"
 	},
 	{
@@ -126,7 +126,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "I'm a Good Sharer",
 		date: "2018-03-13",
 		where: "Englewood, CO",
-		text: "",
+		text: "Hey Jackson try not to splash so much water out of the bowl you're making my nose wet!",
 		bg: "#54554E"
 	},
 	{
@@ -135,7 +135,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "When Is Play Time?",
 		date: "2013-08-26",
 		where: "Fort Collins, CO",
-		text: "",
+		text: "I know it must be soon because you're looking at me and usually when you look at me it's play time!",
 		bg: "#363029"
 	},
 	{
@@ -144,7 +144,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Dinner Time?",
 		date: "2021-08-19",
 		where: "Ballard, WA",
-		text: "",
+		text: "Were you about to get out my dinner? You look like you're about to get out my dinner. Should I get out of my circle?",
 		bg: "#50371F"
 	},
 	{
@@ -153,7 +153,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Helpin' Dad Work",
 		date: "2023-03-14",
 		where: "Olympia, WA",
-		text: "",
+		text: "Hey Dahhhd, do you need help with your codes? I can probably help you!",
 		bg: "#303B4D"
 	},
 	{
@@ -162,7 +162,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "Elevator Vibes",
 		date: "2021-05-25",
 		where: "Ballard, WA",
-		text: "",
+		text: "Awweee yea, I love the elevator because you get to meet everyone and they give you all the pets!!!",
 		bg: "#271E16"
 	},
 	{
@@ -171,7 +171,7 @@ export const PHOTOS: Array<Photo> = [
 		title: "It's Professor Newton to You Dad",
 		date: "2013-12-30",
 		where: "Fort Collins, CO",
-		text: "",
+		text: "And please, if you're going to have snacks make sure you have enough to share with the whole class!",
 		bg: "#11080B"
 	},
 	{
