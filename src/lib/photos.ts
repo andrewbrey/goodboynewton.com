@@ -31,49 +31,13 @@ export const PHOTOS: Array<Photo> = [
 		bg: "#667644"
 	},
 	{
-		img: "k3ghueosgpotdxzugawc",
-		alt: "Newton the golden retriever sitting on his bottom on the sidewalk at twilight. He is wearing his harness for a walk and looking quite cute.",
-		title: "I Love Walks With Dad!",
-		date: "2019-07-04",
-		where: "Ballard, WA",
-		text: "Sometimes Dad notices that I look extra cute on our walks and stops to take a picture, so I make sure to pose and make my ears as fluffy as I can!",
-		bg: "#344966"
-	},
-	{
-		img: "ywqoynsei8rfmidde6wp",
-		alt: "Newton the golden retriever sitting very close to the camera with a concerned look on his face.",
-		title: "I Haven't Eaten in Days",
-		date: "2019-10-03",
-		where: "Ballard, WA",
-		text: "Through years of experimenting, I've found that the best way to let Mom and Dad know that I haven't eaten in like 3 days is to get right in their face and look concerned.",
-		bg: "#5e676c"
-	},
-	{
-		img: "gsvqyxf5ifqg3cc4f19d",
-		alt: "Newton the baby golden retriever sitting on his bottom looking keenly up at the camera. He is next to his favorite dog toy and his tail is very small.",
-		title: "Puppy Blubber!",
-		date: "2013-03-31",
-		where: "Fort Collins, CO",
-		text: "I just woke up from a power nap, I found my favorite toy, and my fat rolls are lookin' extra cute — is it play time now?",
-		bg: "#432725"
-	},
-	{
-		img: "pvsudrmbvzmwxelwpklk",
-		alt: "Newton the teenage golden retriever sitting on his bottom on top of a box that is too small to fully fit him. One of his legs hangs off the side and he seems ok with the fact that he may fall off.",
-		title: "Balance Master",
-		date: "2013-06-05",
-		where: "Fort Collins, CO",
-		text: "Sometimes I like to sit places that aren't quite big enough for me anymore, just to check and see how big I'm getting!",
-		bg: "#2E2039"
-	},
-	{
-		img: "krzphvomxalk9ymis3ww",
+		img: "bacohhll8zmz5m5ubyry",
 		alt: "Newton the golden retriever",
-		title: "This Is So Comfy!",
-		date: "2022-07-08",
-		where: "The Mountains of WA",
-		text: "Mom, when we get home, can you get me my very own cloud blanket so I am always so comfy?",
-		bg: "#482E17"
+		title: "Give Us Both Treats, But Me First",
+		date: "2016-01-09",
+		where: "Englewood, CO",
+		text: "Hello sir, would you like to donate to our good boy treato fund? We accept all donations, like anything at all ...please!",
+		bg: "#6B4639"
 	},
 	{
 		img: "aabcgr1z1xigo38uayqs",
@@ -102,15 +66,7 @@ export const PHOTOS: Array<Photo> = [
 		text: "Ok, ok hear me out - what if instead of calmly drying off with a towel, instead we ran around like crazy and did a bunch of spins!?",
 		bg: "#332E22"
 	},
-	{
-		img: "bacohhll8zmz5m5ubyry",
-		alt: "Newton the golden retriever",
-		title: "Give Us Both Treats, But Me First",
-		date: "2016-01-09",
-		where: "Englewood, CO",
-		text: "Hello sir, would you like to donate to our good boy treato fund? We accept all donations, like anything at all ...please!",
-		bg: "#6B4639"
-	},
+
 	{
 		img: "bqedjjh1sjnmt7bxcvvh",
 		alt: "Newton the golden retriever",
@@ -1361,6 +1317,51 @@ export const PHOTOS: Array<Photo> = [
 		date: "2022-02-12",
 		where: "Ballard, WA",
 		text: "I'm kinda worried that we're going to miss dinner, I've been thinking we should have kibbles early just in case?",
+		bg: "#482E17"
+	},
+	{
+		img: "k3ghueosgpotdxzugawc",
+		alt: "Newton the golden retriever sitting on his bottom on the sidewalk at twilight. He is wearing his harness for a walk and looking quite cute.",
+		title: "I Love Walks With Dad!",
+		date: "2019-07-04",
+		where: "Ballard, WA",
+		text: "Sometimes Dad notices that I look extra cute on our walks and stops to take a picture, so I make sure to pose and make my ears as fluffy as I can!",
+		bg: "#344966"
+	},
+	{
+		img: "ywqoynsei8rfmidde6wp",
+		alt: "Newton the golden retriever sitting very close to the camera with a concerned look on his face.",
+		title: "I Haven't Eaten in Days",
+		date: "2019-10-03",
+		where: "Ballard, WA",
+		text: "Through years of experimenting, I've found that the best way to let Mom and Dad know that I haven't eaten in like 3 days is to get right in their face and look concerned.",
+		bg: "#5e676c"
+	},
+	{
+		img: "gsvqyxf5ifqg3cc4f19d",
+		alt: "Newton the baby golden retriever sitting on his bottom looking keenly up at the camera. He is next to his favorite dog toy and his tail is very small.",
+		title: "Puppy Blubber!",
+		date: "2013-03-31",
+		where: "Fort Collins, CO",
+		text: "I just woke up from a power nap, I found my favorite toy, and my fat rolls are lookin' extra cute — is it play time now?",
+		bg: "#432725"
+	},
+	{
+		img: "pvsudrmbvzmwxelwpklk",
+		alt: "Newton the teenage golden retriever sitting on his bottom on top of a box that is too small to fully fit him. One of his legs hangs off the side and he seems ok with the fact that he may fall off.",
+		title: "Balance Master",
+		date: "2013-06-05",
+		where: "Fort Collins, CO",
+		text: "Sometimes I like to sit places that aren't quite big enough for me anymore, just to check and see how big I'm getting!",
+		bg: "#2E2039"
+	},
+	{
+		img: "krzphvomxalk9ymis3ww",
+		alt: "Newton the golden retriever",
+		title: "This Is So Comfy!",
+		date: "2022-07-08",
+		where: "The Mountains of WA",
+		text: "Mom, when we get home, can you get me my very own cloud blanket so I am always so comfy?",
 		bg: "#482E17"
 	}
 ];
