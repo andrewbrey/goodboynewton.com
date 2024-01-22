@@ -120,5 +120,53 @@ function next(e: KeyboardEvent) {
 				</p>
 			</div>
 		</div>
+
+		{#if data.confetti}
+			<div
+				class="confetti pointer-events-none absolute inset-x-0 top-0 flex h-[var(--confetti-height)] w-full items-center justify-center overflow-hidden [--confetti-height:200px] md:[--confetti-height:250px] lg:[--confetti-height:300px]"
+			>
+				<div class="confetti-piece"></div>
+				{#each data.confetti as c}
+					<c
+						class="confetti-piece"
+						style="--left:{c.left};--delay:{c.delay};--duration:{c.duration};--bg:{c.color};--rotate:{c.rotate};"
+					></c>
+				{/each}
+			</div>
+		{/if}
 	</main>
 </div>
+
+<style>
+.confetti-piece {
+	position: absolute;
+	width: 6px;
+	height: 10px;
+	background-color: var(--bg);
+	top: -10px;
+	opacity: 0;
+}
+.confetti-piece:nth-child(2n) {
+	left: var(--left);
+	transform: rotate(var(--rotate));
+	animation: makeItRain var(--duration) infinite ease-out;
+	animation-delay: var(--delay);
+}
+.confetti-piece:nth-child(3n),
+.confetti-piece:nth-child(4n) {
+	width: 5px;
+	height: 13px;
+}
+
+@keyframes makeItRain {
+	from {
+		opacity: 0;
+	}
+	20% {
+		opacity: 0.9;
+	}
+	to {
+		transform: translateY(var(--confetti-height));
+	}
+}
+</style>

@@ -1,5 +1,6 @@
 import { invariant } from "$lib";
 import { PHOTOS } from "$lib/photos";
+import { faker } from "@faker-js/faker";
 import {
 	format,
 	formatDistanceStrict,
@@ -42,6 +43,15 @@ export const load = (async ({ request }) => {
 		roundingMethod: "floor"
 	})} old`;
 	const isBirthday = isSameDay(setYear(newtonBirthday, getYear(today)), today);
+	const confetti = isBirthday
+		? new Array(150).fill(0).map(() => ({
+				color: faker.color.rgb({ prefix: "#", casing: "lower" }),
+				delay: `${faker.number.int({ min: 40, max: 400 })}ms`,
+				duration: `${faker.number.int({ min: 400, max: 1400 })}ms`,
+				left: `${faker.number.int({ min: 0, max: 100 })}vw`,
+				rotate: `${faker.number.int({ min: 0, max: 180 })}deg`
+			}))
+		: undefined;
 
 	return {
 		...photo,
@@ -49,6 +59,7 @@ export const load = (async ({ request }) => {
 		prettyDate,
 		newtonAge,
 		isBirthday,
+		confetti,
 		calDoy,
 		idx
 	};
