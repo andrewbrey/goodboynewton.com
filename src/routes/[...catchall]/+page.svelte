@@ -73,7 +73,12 @@ function next(e: KeyboardEvent) {
 			<p
 				class="d:leading-none text-center text-xs leading-none text-[color-mix(in_srgb,var(--accent)_30%,#fff)] md:text-lg lg:text-xl xl:text-xl 3xl:text-4xl"
 			>
-				Newton is a <span class="italic underline">very</span> good boy.
+				{#if data.isBirthday}
+					Newton is a very good <span class="-mr-0.5 font-bold text-white">BIRTHDAY</span> boy!!
+					<br />Happy birthday Newton!
+				{:else}
+					Newton is a <span class="italic underline">very</span> good boy.
+				{/if}
 			</p>
 		</div>
 	</header>
@@ -122,38 +127,34 @@ function next(e: KeyboardEvent) {
 		</div>
 
 		{#if data.confetti}
-			<div
-				class="confetti pointer-events-none absolute inset-x-0 top-0 flex h-[var(--confetti-height)] w-full items-center justify-center overflow-hidden [--confetti-height:200px] md:[--confetti-height:250px] lg:[--confetti-height:300px]"
+			<confetti
+				class="pointer-events-none absolute inset-x-0 top-0 flex h-[var(--h)] w-full items-center justify-center overflow-hidden [--h:200px] motion-reduce:hidden md:[--h:250px] lg:[--h:300px]"
 			>
-				<div class="confetti-piece"></div>
 				{#each data.confetti as c}
-					<c
-						class="confetti-piece"
-						style="--left:{c.left};--delay:{c.delay};--duration:{c.duration};--bg:{c.color};--rotate:{c.rotate};"
-					></c>
+					<c style="--l:{c.left};--d:{c.delay};--t:{c.duration};--c:{c.color};--r:{c.rotate};"></c>
 				{/each}
-			</div>
+			</confetti>
 		{/if}
 	</main>
 </div>
 
 <style>
-.confetti-piece {
+c {
 	position: absolute;
 	width: 6px;
 	height: 10px;
-	background-color: var(--bg);
+	background-color: var(--c);
 	top: -10px;
 	opacity: 0;
 }
-.confetti-piece:nth-child(2n) {
-	left: var(--left);
-	transform: rotate(var(--rotate));
-	animation: makeItRain var(--duration) infinite ease-out;
-	animation-delay: var(--delay);
+c:nth-child(2n) {
+	left: var(--l);
+	transform: rotate(var(--r));
+	animation: makeItRain var(--t) infinite ease-out;
+	animation-delay: var(--d);
 }
-.confetti-piece:nth-child(3n),
-.confetti-piece:nth-child(4n) {
+c:nth-child(3n),
+c:nth-child(4n) {
 	width: 5px;
 	height: 13px;
 }
@@ -166,7 +167,7 @@ function next(e: KeyboardEvent) {
 		opacity: 0.9;
 	}
 	to {
-		transform: translateY(var(--confetti-height));
+		transform: translateY(var(--h));
 	}
 }
 </style>
