@@ -1,6 +1,15 @@
 import { invariant } from "$lib";
 import { PHOTOS } from "$lib/photos";
-import { format, formatDistanceStrict, formatISO, getDayOfYear, parseISO } from "date-fns";
+import {
+	format,
+	formatDistanceStrict,
+	formatISO,
+	getDayOfYear,
+	getYear,
+	isSameDay,
+	parseISO,
+	setYear
+} from "date-fns";
 import type { PageServerLoad } from "./$types";
 
 export const load = (async ({ request }) => {
@@ -10,7 +19,8 @@ export const load = (async ({ request }) => {
 
 	const url = new URL(request.url);
 	const urlDoy = url.searchParams.get("doy");
-	const calDoy = getDayOfYear(new Date());
+	const today = new Date();
+	const calDoy = getDayOfYear(today);
 	const urlImg = url.searchParams.get("img");
 
 	const doy = urlDoy ? parseInt(urlDoy) : calDoy;
@@ -31,12 +41,14 @@ export const load = (async ({ request }) => {
 	const newtonAge = `${formatDistanceStrict(newtonBirthday, parsedDate, {
 		roundingMethod: "floor"
 	})} old`;
+	const isBirthday = isSameDay(setYear(newtonBirthday, getYear(today)), today);
 
 	return {
 		...photo,
 		isoDate,
 		prettyDate,
 		newtonAge,
+		isBirthday,
 		calDoy,
 		idx
 	};
