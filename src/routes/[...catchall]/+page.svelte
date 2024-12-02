@@ -4,7 +4,11 @@ import { page } from "$app/stores";
 import { CldImage, CldOgImage } from "svelte-cloudinary";
 import type { PageData } from "./$types";
 
-export let data: PageData;
+interface Props {
+	data: PageData;
+}
+
+let { data }: Props = $props();
 
 function next(e: KeyboardEvent) {
 	if (dev) {
@@ -50,7 +54,7 @@ function next(e: KeyboardEvent) {
 	twitterTitle="Good Boy Newton · Newton is a very good boy."
 />
 
-<svelte:window on:keydown={next} />
+<svelte:window onkeydown={next} />
 
 <div
 	class="flex min-h-dvh w-screen flex-col overflow-x-hidden md:grid xl:h-dvh xl:overflow-hidden"
