@@ -50,7 +50,7 @@ function next(e: KeyboardEvent) {
 	height={630}
 	gravity="faces"
 	src="sdpiecctr25onoyeib8m"
-	title="Good Boy Newton · Newton is a very good boy."
+	alt="Good Boy Newton · Newton is a very good boy."
 	twitterTitle="Good Boy Newton · Newton is a very good boy."
 />
 
@@ -93,6 +93,7 @@ function next(e: KeyboardEvent) {
 				alt={data.alt}
 				layout="fullWidth"
 				height="auto"
+				width="auto"
 				priority={true}
 				format="webp"
 				decoding="sync"
